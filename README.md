@@ -17,7 +17,7 @@ Supporting text/images/video demonstrating the life hack
 
 * brainstorm about the idea
 * find content
-  -sources
+  - sources
  * images
 * design wireframes
 * create a repository on GitHub
