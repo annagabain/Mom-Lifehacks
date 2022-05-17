@@ -22,21 +22,21 @@ Supporting text/images/video demonstrating the life hack
 * find content
   - sources
   - images
-  - 
+  
 * design wireframes
 
 * create a repository on GitHub
- - setup
- - basic structure
- - initial commit
+  - setup
+  - basic structure
+  - initial commit
  
 * create the site skeleton
- - basic layout
- - text content
- - css structure rules
+  - basic layout
+  - text content
+  - css structure rules
  
 * design the moodboard with colors and themes
- - apply the colors to the css
+  - apply the colors to the css
 
 
 <img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
