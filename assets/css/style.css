@@ -1,0 +1,18 @@
+header {
+    background-color: #D8CBC4;
+}
+
+#navigation li {
+   list-style-type: none;
+   float: right;
+   padding: 5px 5px 5px 5px;
+
+}
+
+#title {
+    color: #FAF7F4;
+    background-color: #455359;
+    padding: 15px 15px 45px 15px;
+    display: inline-block;
+}
+

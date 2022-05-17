@@ -37,6 +37,13 @@ Supporting text/images/video demonstrating the life hack
 
 <img width="719" alt="image" src="assets/wireframes/color_pallette.png">
 
+#9C9FA6   - Grey
+#FAF7F4   - Off White
+#D8CBC4   - Mokka Beige
+#455359   - Sea Green
+#A67153   - Brown
+#0D0D0D   - Black-Brown
+
 
 
 ### Project Steps:
