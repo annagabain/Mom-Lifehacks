@@ -21,7 +21,7 @@ Supporting text/images/video demonstrating the life hack
 
 - [x] find content
   - [x] sources
-  - [ ] images
+  - [x] images
   
 - [x] design wireframes
 
@@ -33,10 +33,17 @@ Supporting text/images/video demonstrating the life hack
 - [x] create the site skeleton
   - [ ] basic layout
   - [ ] text content
+  - [ ] images
   - [ ] css structure rules
  
-- [ ] design the moodboard with colors and themes
+- [ ] design the mood board with colors and themes
   - [ ] apply the colors to the css
+ 
+- [ ] test
+  - [ ] check for errors
+  - [ ] validate html
+  - [ ] validate css
+  - [ ] accessibility
 
 
 <img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
