@@ -103,6 +103,10 @@ https://www.forbes.com/sites/financialfinesse/2017/12/03/lifehacks-that-make-bei
 
 https://www.pexels.com/@tatianasyrikova viewed on 15.05.2022
 
+https://www.pexels.com/@karolina-grabowska/ viewed on 14.05.2022
+
+
+
 #### Tools:
 
 Mood board creation on  https://www.canva.com/ platform on 17.05.202
