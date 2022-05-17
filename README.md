@@ -15,12 +15,12 @@ Supporting text/images/video demonstrating the life hack
 
 # Project Steps:
 
-- [x] * read project requirments 
+- [x] read project requirments 
 
 * brainstorm about the idea
 
 * find content
-  - sources
+  - [x] sources
   - images
   
 * design wireframes
