@@ -19,7 +19,7 @@ Potential features to include:
 Lifehack categories and supporting information
 Supporting text/images/video demonstrating the life hack
 
-# Project Steps:
+### Project Steps:
 
 - [x] read project requirments 
 
@@ -30,6 +30,7 @@ Supporting text/images/video demonstrating the life hack
   - [x] images
   
 - [x] design wireframes
+  - [x] choose basic colors
 
 - [x] create a repository on GitHub
   - [x] setup
@@ -54,11 +55,24 @@ Supporting text/images/video demonstrating the life hack
 - [ ] deploy
   - [ ]  GitHub pages
   - [ ]  edit the Readme file
+    - [ ] introduction
+    - [ ] the title image (4 responsive formats)
+    - [ ] describe the sections and attach images to each
+    - [ ] testing and deployment details
+    - [ ] credits to content and media 
   - [ ]  finishing touches
 
 - [ ] go through the requirements checklist
 - [ ] submit the project
 
+### Wireframes
 
 <img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
+
+
+### Mood Board
+
+### Colors
+
+<img width="719" alt="image" src="assets/wireframes/color_pallette.png">
 
