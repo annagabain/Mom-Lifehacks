@@ -23,7 +23,7 @@ Supporting text/images/video demonstrating the life hack
 
 ### Mood Board:
 
-<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board2.png">
+<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board3.png">
 
 
 
@@ -35,7 +35,7 @@ Supporting text/images/video demonstrating the life hack
 
 ### Colors:
 
-<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette.png">
+<img width="719" alt="image" src="assets/wireframes/color_pallette.png">
 
 
 
@@ -87,7 +87,7 @@ Supporting text/images/video demonstrating the life hack
 
 
 
-### Sources:
+### Sources & Credits:
 
 #### Content:
 
@@ -106,4 +106,5 @@ https://www.pexels.com/@tatianasyrikova viewed on 15.05.2022
 #### Tools:
 
 Mood board creation on  https://www.canva.com/ platform on 17.05.202
+
 Color palette selection with https://color.adobe.com/create/color-wheel on 17.05.202
