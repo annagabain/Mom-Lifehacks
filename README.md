@@ -15,7 +15,7 @@ Supporting text/images/video demonstrating the life hack
 
 # Project Steps:
 
-* read project requirments
+* read project requirments - [x]
 
 * brainstorm about the idea
 
