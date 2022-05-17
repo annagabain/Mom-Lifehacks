@@ -45,6 +45,14 @@ Supporting text/images/video demonstrating the life hack
   - [ ] validate css
   - [ ] accessibility
 
+- [ ] deploy
+  - [ ]  GitHub pages
+  - [ ]  edit the Readme file
+  - [ ]  finishing touches
+
+- [ ] go through the requirements checklist
+- [ ] submit the project
+
 
 <img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
 
