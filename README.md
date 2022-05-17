@@ -19,6 +19,26 @@ Potential features to include:
 Lifehack categories and supporting information
 Supporting text/images/video demonstrating the life hack
 
+
+
+### Mood Board:
+
+<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board2.png">
+
+
+
+### Wireframes:
+
+<img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
+
+
+
+### Colors:
+
+<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette.png">
+
+
+
 ### Project Steps:
 
 - [x] read project requirments 
@@ -67,19 +87,23 @@ Supporting text/images/video demonstrating the life hack
 
 
 
-### Mood Board:
+### Sources:
 
-<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board2.png">
+#### Content:
 
+https://www.themuse.com/advice/13-life-hacks-for-careerloving-moms-and-dads
 
+https://www.withlovebecca.com/working-mom-hacks/
 
-### Wireframes:
+https://theeverymom.com/life-hacks-for-working-moms/
 
-<img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
+https://www.forbes.com/sites/financialfinesse/2017/12/03/lifehacks-that-make-being-a-working-mom-a-little-bit-easier/
 
+#### Images:
 
+https://www.pexels.com/@tatianasyrikova viewed on 15.05.2022
 
-### Colors:
+#### Tools:
 
-<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette.png">
-
+Mood board creation on  https://www.canva.com/ platform on 17.05.202
+Color palette selection with https://color.adobe.com/create/color-wheel on 17.05.202
