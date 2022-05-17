@@ -67,19 +67,19 @@ Supporting text/images/video demonstrating the life hack
 
 
 
-### Wireframes
-
-<img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
-
-
-
-### Mood Board
+### Mood Board:
 
 <img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board.png">
 
 
 
-### Colors
+### Wireframes:
 
-<img width="719" alt="image" src="assets/wireframes/color_pallette.png">
+<img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
+
+
+
+### Colors:
+
+<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette.png">
 
