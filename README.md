@@ -43,7 +43,7 @@ Supporting text/images/video demonstrating the life hack
   - [ ] images
   - [ ] css structure rules
  
-- [ ] design the mood board with colors and themes
+- [x] design the mood board with colors and themes
   - [ ] apply the colors to the css
  
 - [ ] test
@@ -65,12 +65,19 @@ Supporting text/images/video demonstrating the life hack
 - [ ] go through the requirements checklist
 - [ ] submit the project
 
+
+
 ### Wireframes
 
 <img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
 
 
+
 ### Mood Board
+
+<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board.png">
+
+
 
 ### Colors
 
