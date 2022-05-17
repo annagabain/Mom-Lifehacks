@@ -17,15 +17,15 @@ Supporting text/images/video demonstrating the life hack
 
 - [x] read project requirments 
 
-* brainstorm about the idea
+- [x] brainstorm about the idea
 
-* find content
+- [x] find content
   - [x] sources
-  - [] images
+  - [ ] images
   
-* design wireframes
+- [x] design wireframes
 
-* create a repository on GitHub
+- [x] create a repository on GitHub
   - setup
   - basic structure
   - initial commit
