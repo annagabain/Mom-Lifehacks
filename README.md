@@ -13,3 +13,6 @@ Potential features to include:
 Lifehack categories and supporting information
 Supporting text/images/video demonstrating the life hack
 
+
+<img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/1025px%E2%80%8A%E2%80%94%E2%80%8A1200px_%20Desktops,%20large%20screens.png">
+
