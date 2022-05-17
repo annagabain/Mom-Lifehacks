@@ -21,7 +21,7 @@ Supporting text/images/video demonstrating the life hack
 
 * find content
   - [x] sources
-  - images
+  - [] images
   
 * design wireframes
 
