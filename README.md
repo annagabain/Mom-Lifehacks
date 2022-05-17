@@ -69,7 +69,7 @@ Supporting text/images/video demonstrating the life hack
 
 ### Mood Board:
 
-<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board.png">
+<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board2.png">
 
 
 
