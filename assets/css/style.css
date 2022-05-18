@@ -84,17 +84,41 @@ header {
     height: 200px;  
 }
 
-h3 {
-    text-align: center;
+.navigation-item {
+     text-align: left;
+     padding-top: 50px;
+     padding-left: 10px;
 }
+
+#work-life {
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+
+#lifehack {
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+#contact {
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+
+
 
 /* Tablet size and smaller */
 @media only screen and (max-width: 768px) {
-    #title {
+    #title1 {
       background-color: red;
       font-size: 1rem;
     }
-    #title h4 {
+    #title1 h4 {
         font-style: light;
         font-size: 0.7rem;
     }
