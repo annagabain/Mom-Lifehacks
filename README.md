@@ -94,6 +94,8 @@ https://annagabain.github.io/Project_1/
 
 ### Sources & Credits:
 
+How-to references: https://www.w3schools.com/
+
 #### Content:
 
 https://www.themuse.com/advice/13-life-hacks-for-careerloving-moms-and-dads

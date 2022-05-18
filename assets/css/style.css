@@ -18,18 +18,13 @@ body {
     background-color: #D8CBC4;
 }
 
-header {
-    background-color: #A67153;
-}
-
-#headerimage {
-    border-radius: 50%;
-    width: 200px;
-    height: 200px;  
-    display: inline-block;
-}
-
-
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #A67153;
+    color: white;
+    font-size: 30px;
+  }
 
 #navigation li {
    list-style-type: none;
