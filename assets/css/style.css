@@ -75,7 +75,9 @@ body {
 #banner {
   height: 600px;
   width: 100%;
-  background: #3a3a3a;
+  background: url('../images/pexels-tatiana-syrikova-3933395-banner.png') no-repeat center center;
+  background-color: #3a3a3a;
+
 }
 
 #babykeyboard {
