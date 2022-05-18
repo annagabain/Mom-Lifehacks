@@ -63,7 +63,7 @@ https://annagabain.github.io/Project_1_Mom_Lifehacks
   - [x] initial commit
  
 - [x] create the site skeleton
-  - [ ] basic layout
+  - [x] basic layout
   - [ ] text content
   - [ ] images
   - [ ] css structure rules
