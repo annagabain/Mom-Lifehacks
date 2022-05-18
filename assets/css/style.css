@@ -18,8 +18,8 @@ body {
     background-color: #D8CBC4;
 }
 
-.header {
-    padding: 60px;
+header {
+    padding: 10px 20px 50px 20px;
     text-align: center;
     background: #D8CBC4;
     color: white;
@@ -32,9 +32,6 @@ body {
     color: #0D0D0D;
 }
 
-#navigation, #logo {
-    line-height: 75px;
-}
 
 #navigation li {
     float: right;
@@ -51,44 +48,44 @@ body {
     border-bottom: 1px solid #3a3a3a;
 }
   
-#title {
+#title1 {
 
     font-family: 'Lemonada', cursive, sans-serif;
     font-style: normal;
     font-weight: light;
-    font-size: 2rem;
+    font-size: 3rem;
     letter-spacing: 0.1em;
     line-height: 90%;
-    
+    padding: 10px 10px 10px 10px;
     color: #FAF7F4;
-    background-color: #455359;
-    padding: 15px 15px 45px 15px;
-    display: inline-block;
+    
+    text-align: center;
 }
 
-#title h4 {
+#title1 h4 {
     font-style: light;
     font-size: 1rem;
 }
 
-
-#banner {
-  height: 600px;
-  width: 100%;
-  background: url('../images/pexels-tatiana-syrikova-3933395-banner.png') no-repeat center center;
-  background-color: #3a3a3a;
-
-}
+#banner1 {
+    height: 400px;
+    width: 100%;
+    background-color: #455359;
+    /* background: url('../images/pexels-tatiana-syrikova-3933395-banner.png') no-repeat center center; */
+  }
 
 #babykeyboard {
-    display: inline-block;
+    text-align: center;
 }
 
 #babykeyboard img {
     border-radius: 50%;
     width: 200px;
     height: 200px;  
-    display: inline-block;
+}
+
+h3 {
+    text-align: center;
 }
 
 /* Tablet size and smaller */
