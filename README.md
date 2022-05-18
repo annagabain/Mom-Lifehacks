@@ -38,6 +38,11 @@ Supporting text/images/video demonstrating the life hack
 <img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette3.png">
 
 
+### GitHub page:
+
+The current live version of the project is can be seen here:
+https://annagabain.github.io/Project_1/
+
 
 ### Project Steps:
 
@@ -73,7 +78,7 @@ Supporting text/images/video demonstrating the life hack
   - [ ] accessibility
 
 - [ ] deploy
-  - [ ]  GitHub pages
+  - [x]  GitHub pages
   - [ ]  edit the Readme file
     - [ ] introduction
     - [ ] the title image (4 responsive formats)
