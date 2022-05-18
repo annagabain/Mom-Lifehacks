@@ -11,8 +11,12 @@
 #0D0D0D   - Black-Brown */
 
 
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300&display=swap');
+
+
 header {
     background-color: #D8CBC4;
+    
 }
 
 #navigation li {
@@ -23,9 +27,22 @@ header {
 }
 
 #title {
+
+    font-family: 'Lemonada', cursive, sans-serif;
+    font-style: normal;
+    font-weight: light;
+    font-size: 2rem;
+    letter-spacing: 0.1em;
+    line-height: 90%;
+    
     color: #FAF7F4;
     background-color: #455359;
     padding: 15px 15px 45px 15px;
     display: inline-block;
+}
+
+#title h4 {
+    font-style: light;
+    font-size: 1rem;
 }
 
