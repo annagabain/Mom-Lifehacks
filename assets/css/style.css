@@ -13,11 +13,23 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300&display=swap');
 
+body {
+    color: #0D0D0D;
+    background-color: #D8CBC4;
+}
 
 header {
-    background-color: #D8CBC4;
-    
+    background-color: #A67153;
 }
+
+#headerimage {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;  
+    display: inline-block;
+}
+
+
 
 #navigation li {
    list-style-type: none;
@@ -46,7 +58,18 @@ header {
     font-size: 1rem;
 }
 
+#babykeyboard {
+    display: inline-block;
+    float: right;
+}
+#babykeyboard img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;  
+    display: inline-block;
+}
 
+/* Tablet size and smaller */
 @media only screen and (max-width: 768px) {
     #title {
       background-color: red;
@@ -54,6 +77,6 @@ header {
     }
     #title h4 {
         font-style: light;
-        font-size: 0.5rem;
+        font-size: 0.7rem;
     }
   }
