@@ -96,6 +96,8 @@ https://annagabain.github.io/Project_1_Mom_Lifehacks
 
 How-to references: https://www.w3schools.com/
 
+Lifehack icons: https://fontawesome.com/
+
 #### Content:
 
 https://www.themuse.com/advice/13-life-hacks-for-careerloving-moms-and-dads
