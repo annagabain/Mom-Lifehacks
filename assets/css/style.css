@@ -80,8 +80,8 @@ header {
 
 #babykeyboard img {
     border-radius: 50%;
-    width: 200px;
-    height: 200px;  
+    width: 300px;
+    height: 300px;  
 }
 
 .navigation-item {
@@ -92,25 +92,38 @@ header {
 
 #work-life {
     text-align: center;
-    padding-top: 50px;
-    padding-left: 10px;
+    padding: 50px 50px 50px 50px;
+}
+
+#medalions {
+    text-align: center;
+}
+
+#medalions img {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;  
 }
 
 
 #lifehack {
     text-align: center;
-    padding-top: 50px;
-    padding-left: 10px;
+    padding: 50px 50px 50px 50px;
 }
 
 #contact {
     text-align: center;
-    padding-top: 50px;
-    padding-left: 10px;
+    padding: 50px 50px 50px 50px;
 }
 
 .left {
     float: left;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 30px;
+    line-height: 32px;
 }
 
 
