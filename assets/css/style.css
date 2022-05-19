@@ -86,9 +86,9 @@ header {
 }
 
 #top {
-    display: inline-block;
     background: #A67153;
     float: right;
+    position: sticky;
 }
 
 .navigation-item {
