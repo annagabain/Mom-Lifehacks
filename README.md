@@ -108,6 +108,10 @@ https://theeverymom.com/life-hacks-for-working-moms/
 
 https://www.forbes.com/sites/financialfinesse/2017/12/03/lifehacks-that-make-being-a-working-mom-a-little-bit-easier/
 
+https://www.sleepcycle.com/how-to-fall-asleep/how-to-power-nap-like-a-pro/
+
+https://www.theodysseyonline.com/4-reasons-your-family-best-support-system
+
 #### Images:
 
 https://www.pexels.com/@tatianasyrikova viewed on 15.05.2022
