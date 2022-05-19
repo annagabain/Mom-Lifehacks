@@ -87,9 +87,30 @@ header {
 
 #top {
     background: #A67153;
+    color: #FAF7F4;
     float: right;
     position: sticky;
+    top: 0; 
 }
+
+#top {
+    font-size: 100%;
+    letter-spacing: 4px;
+    color: #FAF7F4;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+#top a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#top a:hover {
+    background-color: #A67153;
+    color: #FAF7F4;
+}
+
 
 .navigation-item {
      text-align: left;
