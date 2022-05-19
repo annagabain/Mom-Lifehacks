@@ -64,12 +64,12 @@ https://annagabain.github.io/Mom-Lifehacks
  
 - [x] create the site skeleton
   - [x] basic layout
-  - [ ] text content
-  - [ ] images
-  - [ ] css structure rules
+  - [x] text content
+  - [x] images
+  - [x] css structure rules
  
 - [x] design the mood board with colors and themes
-  - [ ] apply the colors to the css
+  - [x] apply the colors to the css
  
 - [ ] test
   - [ ] check for errors
