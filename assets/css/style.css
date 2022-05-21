@@ -29,10 +29,6 @@ header {
     font-size: 30px;
   }
 
-  h3 {
-      font-family: 'Lemonada', cursive, sans-serif;
-  }
-
 #navigation {
     font-family: 'Open Sans', sans-serif;
     font-weight: regular;
@@ -68,7 +64,7 @@ header {
     line-height: 90%;
     padding: 10px 10px 10px 10px;
     color: #FAF7F4;
-    
+
     text-align: center;
 }
 
@@ -77,15 +73,22 @@ header {
     font-size: 1rem;
 }
 
+
 #banner1 {
-    height: 400px;
+    /* the secret of babykeyboard sitting between two background colors is here */
+    height: 450px;
     width: 100%;
+
     background-color: #455359;
-    /* background: url('../images/pexels-tatiana-syrikova-3933395-banner.png') no-repeat center center; */
+
+    /* background: url('../images/pexels-tatiana-syrikova-3933395-banner.png') no-repeat center center; 
+    doesnt work just yet */
   }
 
 #babykeyboard {
-    text-align: center;
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
 }
 
 #babykeyboard img {
@@ -94,25 +97,9 @@ header {
     height: 300px;  
 }
 
-.beige-background {
-    background-color: #D8CBC4;
-
-}
-
-.creme-background {
-    background-color: #FAF7F4;
-}
-
-.columns {
-    columns: 2;
-}
-
 #top {
     background: #A67153;
     color: #FAF7F4;
-    /* float: right; */
-    /* position: sticky; */
-    /* top: 0;  */
     position: fixed;
     bottom: 10px;
     right: 10px;
@@ -138,8 +125,6 @@ header {
      text-align: left;
      padding-top: 50px;
      padding-left: 10px;
-
-
     
      font-style: normal;
      font-weight: light;
@@ -148,22 +133,25 @@ header {
      line-height: 90%;
 }
 
-#three-images {
+.three-images {
     display: flex;
     justify-content: space-around;
 }
 
 #work-life { 
     padding: 50px 50px 50px 50px;
+    clear: left;
 }
 
 #work-life p {
     columns: 2;
     text-align: left;
+    clear: left;
 }
 
 #medalions {
-    text-align: center;
+    text-align: left;
+    padding: 0;
 }
 
 #medalions img {
@@ -172,10 +160,38 @@ header {
     height: 300px;  
 }
 
+.column-two {
+    columns: 2;
+}
 
-#lifehack {
-    text-align: center;
+.column-three {
+    columns: 3;
+}
+
+
+
+
+.lifehack {
     padding: 50px 50px 50px 50px;
+    background-color: #FAF7F4;
+}
+
+h3 {
+    font-family: 'Lemonada', cursive, sans-serif;
+    text-align: center;
+}
+
+.lifehack div {
+    padding: 50px 50px;
+    text-align: left;
+}
+
+.even-number-hack {
+    background-color: #D8CBC4;
+}
+
+.odd-number-hack {
+    background-color: #FAF7F4;
 }
 
 #contact {
