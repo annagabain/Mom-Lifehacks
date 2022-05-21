@@ -238,6 +238,12 @@ h3 {
     background-color: #FAF7F4;
 }
 
+#free-image img {
+    width: 100%;
+    object-fit: contain;
+    text-align: center;
+}
+
 #contact {
     text-align: center;
     padding: 50px 50px 50px 50px;
