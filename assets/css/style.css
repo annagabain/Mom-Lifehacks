@@ -148,9 +148,18 @@ header {
      line-height: 90%;
 }
 
-#work-life {
-    text-align: center;
+#three-images {
+    display: flex;
+    justify-content: space-around;
+}
+
+#work-life { 
     padding: 50px 50px 50px 50px;
+}
+
+#work-life p {
+    columns: 2;
+    text-align: left;
 }
 
 #medalions {
