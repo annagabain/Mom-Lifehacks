@@ -76,7 +76,7 @@ header {
 
 #banner1 {
     /* the secret of babykeyboard sitting between two background colors is here */
-    height: 450px;
+    height: 400px;
     width: 100%;
 
     background-color: #455359;
@@ -93,8 +93,8 @@ header {
 
 #babykeyboard img {
     border-radius: 50%;
-    width: 300px;
-    height: 300px;  
+    width: 250px;
+    height: 250px;  
 }
 
 #top {
@@ -136,6 +136,26 @@ header {
 .three-images {
     display: flex;
     justify-content: space-around;
+
+}
+.three-images img {
+    width: 30%;
+}
+
+.three-images1 {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    justify-content: flex-start;
+    /* margin: 10px;
+    padding: 30px; */
+    
+}
+
+.three-images1 img {
+    margin-bottom: 20px;
+    width: 250px;
+    height: 150px;
 }
 
 #work-life { 
@@ -156,6 +176,7 @@ header {
 
 #medalions img {
     border-radius: 50%;
+    /* border: #455359 solid 5px; */
     width: 300px;
     height: 300px;  
 
