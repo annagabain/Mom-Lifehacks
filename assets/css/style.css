@@ -150,6 +150,7 @@ header {
 }
 
 #medalions {
+
     text-align: left;
     padding: 0;
 }
@@ -158,7 +159,30 @@ header {
     border-radius: 50%;
     width: 300px;
     height: 300px;  
+
+    text-align: center;
+    margin: auto;
+    display: block;
+
 }
+
+/* #medalions {
+    position: relative;
+    float: center;
+    text-align: -webkit-right;
+    padding: 0;
+}
+
+#medalions img {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+}
+
+.wrap-around-image {
+    clear: both;
+  } */
 
 .column-two {
     columns: 2;
