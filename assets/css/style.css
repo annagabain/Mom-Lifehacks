@@ -301,11 +301,14 @@ input[type=text], input[type=email], select, textarea {
 
 /* Tablet size and smaller */
 @media only screen and (max-width: 768px) {
-    header {
-        padding: 0;
+    #banner1 {
+        height: 250px;
     }
+
+
+
     #title1 {
-      background-color: #A67153;
+      /* background-color: #A67153; */
       font-size: 1.5rem;
       line-height: normal;
       padding: 1px;
@@ -318,8 +321,8 @@ input[type=text], input[type=email], select, textarea {
 
     #babykeyboard img {
         text-align: center;
-        height: 200px;
-        width: 200px;
+        height: 180px;
+        width: 180px;
     }
 
 
@@ -351,7 +354,7 @@ input[type=text], input[type=email], select, textarea {
         padding: 100px 10px;
     }
 
-    .columns {
+    .column-three {
         columns: 1;
     }
   }
