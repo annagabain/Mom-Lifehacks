@@ -40,7 +40,7 @@ Supporting text/images/video demonstrating the life hack
 
 ### GitHub page:
 
-The current live version of the project is can be seen here:
+The current live version of the project can be seen here:
 https://annagabain.github.io/Mom-Lifehacks
 
 
