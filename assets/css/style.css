@@ -208,7 +208,7 @@ header {
     columns: 2;
 }
 
-.column-three {
+.column-count {
     columns: 3;
 }
 
@@ -304,4 +304,3 @@ input[type=text], input[type=email], select, textarea {
     background-color: #D8CBC4;
     padding: 20px;
   }
-  

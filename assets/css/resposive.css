@@ -43,8 +43,13 @@
   
   @media (min-width: 768px) and (max-width: 1024px) {
     
-    .column-three {
+    .column-count {
         columns: 2;
+    }
+
+    #lifehack div {
+        padding: 20px 20px;
+        text-align: left;
     }
     
   }
@@ -59,7 +64,7 @@
   
   @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
     
-    .column-three {
+    .column-count {
         columns: 3;
     }
     
@@ -143,7 +148,7 @@
         padding: 20px 20px;
     }
 
-    .column-three {
+    .column-count {
         columns: 1;
     }
 
@@ -238,7 +243,7 @@
         padding: 20px 20px;
     }
 
-    .column-three {
+    .column-count {
         columns: 1;
     }
 
