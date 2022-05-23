@@ -64,8 +64,9 @@ header {
     line-height: 90%;
     padding: 10px 10px 10px 10px;
     color: #FAF7F4;
+    /* background: #455359; */
 
-    text-align: center;
+    text-align: right;
 }
 
 #title1 h4 {
@@ -78,23 +79,25 @@ header {
     /* the secret of babykeyboard sitting between two background colors is here */
     height: 400px;
     width: 100%;
+    display: block;
 
-    background-color: #455359;
+    background: #455359;
 
-    /* background: url('../images/pexels-tatiana-syrikova-3933395-banner.png') no-repeat center center; 
-    doesnt work just yet */
+    background: url('../images/pexels-tatiana-syrikova-3933395-banner.png')  center; 
+    background-size: cover;
   }
 
 #babykeyboard {
-    /* text-align: center; */
     display: flex;
-    justify-content: center;
+    justify-content: right;
 }
 
 #babykeyboard img {
     border-radius: 50%;
     width: 250px;
     height: 250px;  
+
+    /* border: #D8CBC4 solid 8px */
 }
 
 #top {
@@ -169,14 +172,12 @@ header {
 }
 
 #medalions {
-
     text-align: left;
     padding: 0;
 }
 
 #medalions img {
     border-radius: 50%;
-    /* border: #455359 solid 5px; */
     width: 300px;
     height: 300px;  
 
@@ -186,23 +187,6 @@ header {
 
 }
 
-/* #medalions {
-    position: relative;
-    float: center;
-    text-align: -webkit-right;
-    padding: 0;
-}
-
-#medalions img {
-    border-radius: 50%;
-    width: 300px;
-    height: 300px;
-    position: absolute;
-}
-
-.wrap-around-image {
-    clear: both;
-  } */
 
 .column-two {
     columns: 2;
