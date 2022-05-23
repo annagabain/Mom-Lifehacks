@@ -15,8 +15,11 @@
 
 @media (min-width: 1281px) {
   
-    /* CSS */
-    
+    #medalions {
+        display: flex;
+        justify-content: center;
+    }
+
   }
   
 

@@ -62,7 +62,7 @@ header {
     font-size: 3rem;
     letter-spacing: 0.1em;
     line-height: 90%;
-    padding: 10px 10px 10px 10px;
+    padding: 10px 50px 10px 10px;
     color: #FAF7F4;
     /* background: #455359; */
 
@@ -83,13 +83,15 @@ header {
 
     background: #455359;
 
-    background: url('../images/pexels-tatiana-syrikova-3933395-banner.png')  center; 
+    background: url('../images/pexels-tatiana-syrikova-3933395.jpg')  center; 
+
     background-size: cover;
   }
 
 #babykeyboard {
     display: flex;
     justify-content: right;
+    padding: 0px 50px 0px 50px;
 }
 
 #babykeyboard img {
