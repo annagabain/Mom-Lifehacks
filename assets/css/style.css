@@ -80,10 +80,9 @@ header {
     height: 400px;
     width: 100%;
     display: block;
-
     background: #455359;
-
-    background: url('../images/pexels-tatiana-syrikova-3933395.jpg')  center; 
+    background: url('../images/pexels-tatiana-syrikova-3933395-banner.png')  center; 
+    
 
     background-size: cover;
   }

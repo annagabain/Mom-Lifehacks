@@ -31,6 +31,7 @@
   */
   
   @media (min-width: 1025px) and (max-width: 1280px) {
+
     
     #medalions {
         display: flex;
@@ -52,6 +53,20 @@
   */
   
   @media (min-width: 768px) and (max-width: 1024px) {
+
+    #title1 {
+        text-align: center;
+      }
+  
+
+    #banner1 {
+        background: #455359;
+        background: url('../images/web-pexels-tatiana-syrikova-3933395-banner-SMALL.jpg')  center; 
+    }
+
+    #babykeyboard {
+        justify-content: center;
+    }
     
     .column-count {
         columns: 2;
@@ -82,6 +97,10 @@
   */
   
   @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+    #babykeyboard {
+        justify-content: center;
+    }
     
     .column-count {
         columns: 3;
@@ -131,6 +150,8 @@
 
     #banner1 {
         height: 300px;
+        background: #455359;
+        background: url('../images/web-pexels-tatiana-syrikova-3933395-banner-SMALL.jpg')  center; 
     }
 
     #title1 {
@@ -138,11 +159,16 @@
       font-size: 1.5rem;
       line-height: normal;
       padding: 1px;
+      text-align: center;
     }
 
     #title1 h4 {
         font-style: light;
         font-size: 0.7rem;
+    }
+
+    #babykeyboard {
+        justify-content: center;
     }
 
     #babykeyboard img {
@@ -226,18 +252,26 @@
 
     #banner1 {
         height: 350px;
+        background: #455359;
+        background: url('../images/web-pexels-tatiana-syrikova-3933395-banner-SMALL.jpg')  center; 
     }
 
+
+
     #title1 {
-      /* background-color: #A67153; */
       font-size: 1.5rem;
       line-height: normal;
       padding: 1px;
+      text-align: center;
     }
 
     #title1 h4 {
         font-style: light;
         font-size: 0.7rem;
+    }
+
+    #babykeyboard {
+        justify-content: center;
     }
 
     #babykeyboard img {
