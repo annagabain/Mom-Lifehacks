@@ -234,25 +234,28 @@
 
 
     #banner-container {
-        height: 250px;
+        height: 150px;
     }
     
     #banner1 {
-        height: 300px;
+        height: 150px;
     }
 
 
 
     #title1 {
-      font-size: 1.5rem;
-      line-height: normal;
-      padding: 1px;
-      text-align: center;
+      font-size: 1.3rem;
+      line-height: 200%;
+      padding: 0px 5px 0px 0px;
+      /* text-align: center; */
+      justify-content: flex-end;
     }
 
     #title1 h4 {
         font-style: light;
         font-size: 0.7rem;
+        line-height: 200%;
+        justify-content: flex-end;
     }
 
     h3 {
