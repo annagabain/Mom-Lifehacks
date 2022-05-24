@@ -21,7 +21,7 @@ body {
     font-weight: regular;
 }
 
-header {
+  header {
     padding: 10px 20px 50px 20px;
     text-align: center;
     background: #D8CBC4;
@@ -53,6 +53,10 @@ header {
     background-color: #A67153;
     color: #FAF7F4;
 }
+
+#banner-container {
+    background-color: #455359;
+}
   
 #title1 {
 
@@ -62,7 +66,7 @@ header {
     font-size: 3rem;
     letter-spacing: 0.1em;
     line-height: 90%;
-    padding: 10px 50px 10px 10px;
+    padding: 120px 50px 50px 50px;
     color: #FAF7F4;
     /* background: #455359; */
 
@@ -77,7 +81,7 @@ header {
 
 #banner1 {
     /* the secret of babykeyboard sitting between two background colors is here */
-    height: 400px;
+    height: 500px;
     width: 100%;
     display: block;
     background: #455359;
@@ -87,16 +91,14 @@ header {
 
 #babykeyboard {
     display: flex;
-    justify-content: right;
-    padding: 0px 50px 0px 50px;
+    justify-content: center;
+    padding: 0px 50px 0px 50px;   
 }
 
 #babykeyboard img {
     border-radius: 50%;
     width: 250px;
     height: 250px;  
-
-    /* border: #D8CBC4 solid 8px */
 }
 
 #top {
@@ -144,25 +146,16 @@ header {
     width: 30%;
 }
 
-.three-images1 {
-    display: flex;
-    flex-direction: column;
-    position: absolute;
-    justify-content: flex-start;
-    /* margin: 10px;
-    padding: 30px; */
-    
-}
-
-.three-images1 img {
-    margin-bottom: 20px;
-    width: 250px;
-    height: 150px;
+#pre-work-life {
+    background-color: #D8CBC4;
+    padding: 50px 50px 50px 50px;
+    height: 100px;
 }
 
 #work-life { 
-    padding: 100px 50px 50px 50px;
+    padding: 50px 50px 50px 50px;
     clear: left;
+    background-color: #FAF7F4;
 }
 
 #work-life p {
