@@ -54,6 +54,11 @@
   
   @media (min-width: 768px) and (max-width: 1024px) {
 
+    header {
+        padding: 0px 20px 40px 20px;
+        font-size: 1.2rem;
+    }
+
     #banner-container {
         background-color: #455359;
         height: 400px;
@@ -132,42 +137,29 @@
   @media (min-width: 481px) and (max-width: 767px) {
 
     header {
-        padding: 10px 20px 70px 20px;
-        text-align: left;
+        padding: 0px 0px 30px 0px;
+        font-size: 1.2rem;
     }
 
-    nav {
-        font-weight: bold;
-        font-size: 50%;
-        letter-spacing: 2px;
-    }
-
-    nav ul {
-        display: flex;
-        float: left;
-        flex-direction: column-reverse;
-        padding-inline-start: 0px;
-        margin: 0;
+    #banner-container {
+        height: 250px;
     }
     
-
     #banner1 {
         height: 300px;
-        background: #455359;
-        background: url('../images/web-pexels-tatiana-syrikova-3933395-banner-SMALL.jpg')  center; 
     }
 
     #title1 {
-      /* background-color: #A67153; */
-      font-size: 1.5rem;
-      line-height: normal;
+      font-size: 1.8rem;
       padding: 1px;
       text-align: center;
     }
 
     #title1 h4 {
         font-style: light;
-        font-size: 0.7rem;
+        font-size: 0.6rem;
+        text-align: right;
+        padding: 0px 20px 0px 0px;
     }
 
     #babykeyboard {
