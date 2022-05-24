@@ -127,7 +127,7 @@ body {
 .navigation-item {
     font-family: 'Open Sans', sans-serif;
      text-align: left;
-     padding-top: 50px;
+     padding-top: 20px;
      padding-left: 10px;
     
      font-style: normal;
@@ -144,12 +144,6 @@ body {
 }
 .three-images img {
     width: 30%;
-}
-
-#pre-work-life {
-    background-color: #D8CBC4;
-    padding: 50px 50px 50px 50px;
-    height: 100px;
 }
 
 #work-life { 
