@@ -2,47 +2,16 @@
 
 ## 10  ideas for happy work-life balance
 
+Look, how it turned out! 
+
+## :point_down:
+
+## Deployed Site
+
+[https://annagabain.github.io/Mom-Lifehacks](https://annagabain.github.io/Mom-Lifehacks/index.html)
 
 
-Build a Lifehacks website
-
-External user’s goal:
-
-The site’s users are interested in solving everyday problems in an intuitive and engaging way
-
-Site owner's goal:
-
-The goal of the site is to be the primary source of solutions to genuinely useful life hacks
-
-Potential features to include:
-
-Lifehack categories and supporting information
-Supporting text/images/video demonstrating the life hack
-
-
-
-### Mood Board:
-
-<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board3.png">
-
-
-
-### Wireframes:
-
-<img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
-
-
-
-### Colors:
-
-<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette3.png">
-
-
-### GitHub page:
-
-The current live version of the project can be seen here:
-https://annagabain.github.io/Mom-Lifehacks
-
+<img width="719" alt="image" src="https://raw.githubusercontent.com/annagabain/Mom-Lifehacks/main/assets/images/Screenshot%202022-05-24%20171053.jpg">
 
 ### Project Steps:
 
@@ -84,12 +53,36 @@ https://annagabain.github.io/Mom-Lifehacks
     - [ ] the title image (4 responsive formats)
     - [ ] describe the sections and attach images to each
     - [ ] testing and deployment details
-    - [ ] credits to content and media 
+    - [x] credits to content and media 
   - [ ]  finishing touches
 
 - [ ] go through the requirements checklist
 - [ ] submit the project
 
+
+
+
+### Mood Board:
+
+<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board3.png">
+
+
+
+### Wireframes:
+
+<img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
+
+
+
+### Colors:
+
+<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette3.png">
+
+
+### GitHub page:
+
+The current live version of the project can be seen here:
+https://annagabain.github.io/Mom-Lifehacks
 
 
 ### Sources & Credits:
