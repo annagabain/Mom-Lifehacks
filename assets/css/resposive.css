@@ -209,17 +209,27 @@
     header {
         padding: 0px 0px 30px 0px;
         font-size: 0.8rem;
+        text-align: left;
     }
 
     #navigation {
         font-weight: light;
         letter-spacing: 0.2px;
-        
+
         display: flex;
         float: left;
         flex-direction: column-reverse;
-        background-color: #D8CBC4;
-        color: black;
+        background-color: #A67153;
+        color: #FAF7F4;
+    }
+
+    #navigation a:hover {
+        background-color: #FAF7F4;
+        color: #455359;
+    }
+
+   ul {
+        padding-inline-start: 10px;
     }
 
 
