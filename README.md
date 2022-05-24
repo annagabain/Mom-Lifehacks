@@ -11,7 +11,7 @@ Look, how it turned out!
 [https://annagabain.github.io/Mom-Lifehacks](https://annagabain.github.io/Mom-Lifehacks/index.html)
 
 
-<img width="719" alt="image" src="https://raw.githubusercontent.com/annagabain/Mom-Lifehacks/main/assets/images/Screenshot%202022-05-24%20171053.jpg">
+<img width="100%" alt="image" src="https://raw.githubusercontent.com/annagabain/Mom-Lifehacks/main/assets/images/Screenshot%202022-05-24%20171053.jpg">
 
 ### Project Steps:
 
