@@ -207,11 +207,14 @@ h3 {
 .odd-number-hack {
     background-color: #FAF7F4;
 }
-
+#free-image {
+    padding: 0px;
+}
 #free-image img {
     width: 100%;
     object-fit: contain;
     text-align: center;
+    padding: 0px;
 }
 
 #contact {
