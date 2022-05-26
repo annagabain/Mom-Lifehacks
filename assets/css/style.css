@@ -44,7 +44,18 @@ body {
     margin-right: 30px;
 }
 
-#navigation a {
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    background-color: #A67153;
+    color: #FAF7F4;
+}
+
+
+/* #navigation a {
     text-decoration: none;
     color: inherit;
 }
@@ -52,7 +63,7 @@ body {
 #navigation a:hover {
     background-color: #A67153;
     color: #FAF7F4;
-}
+} */
 
 #banner-container {
     background-color: #455359;
@@ -102,27 +113,16 @@ body {
 }
 
 #top {
-    background: #A67153;
-    color: #FAF7F4;
+    /* color: #FAF7F4; */
+    background: #D8CBC4;
+    opacity: 1;
     position: fixed;
     bottom: 10px;
-    right: 10px;
-
+    right: 5px;
     font-size: 90%;
     letter-spacing: 1px;
-    padding: 10px 5px;
+    padding: 5px 5px;
 }
-
-#top a {
-    text-decoration: none;
-    color: inherit;
-}
-
-#top a:hover {
-    background-color: #A67153;
-    color: #FAF7F4;
-}
-
 
 .navigation-item {
     font-family: 'Open Sans', sans-serif;
@@ -162,7 +162,7 @@ body {
     border-radius: 50%;
     width: 300px;
     height: 300px;  
-    padding-top: 20px;
+    padding: 10px;
     text-align: center;
     margin: auto;
     display: block;
@@ -190,7 +190,7 @@ h3 {
 }
 
 .lifehack div {
-    padding: 25px 25px;
+    padding: 15px 15px;
     text-align: left;
 }
 
