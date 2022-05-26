@@ -79,7 +79,11 @@
         columns: 2;
     }
 
-    #lifehack div {
+    .lifehack {
+        padding: 5px 5px 5px 5px;
+    }
+
+    .lifehack div {
         padding: 20px 20px;
         text-align: left;
     }
@@ -180,12 +184,12 @@
         padding: 50px 10px;
     }
 
-    #lifehack {
+    .lifehack {
         padding: 5px 5px 5px 5px;
         background-color: #FAF7F4;
     }
 
-    #lifehack div {
+    .lifehack div {
         padding: 20px 20px;
     }
 
@@ -309,12 +313,12 @@
 
     }
 
-    #lifehack {
+    .lifehack {
         padding: 5px 5px 5px 5px;
         background-color: #FAF7F4;
     }
 
-    #lifehack div {
+    .lifehack div {
         padding: 20px 20px;
     }
 

@@ -157,10 +157,6 @@ body {
     clear: left;
 }
 
-#medalions {
-    text-align: left;
-    padding: 0;
-}
 
 #medalions img {
     border-radius: 50%;
@@ -183,11 +179,10 @@ body {
 }
 
 
-
-
-#lifehack {
+.lifehack {
     padding: 50px 50px 50px 50px;
     background-color: #FAF7F4;
+
 }
 
 h3 {
@@ -195,8 +190,8 @@ h3 {
     text-align: center;
 }
 
-#lifehack div {
-    padding: 50px 50px;
+.lifehack div {
+    padding: 25px 25px;
     text-align: left;
 }
 
