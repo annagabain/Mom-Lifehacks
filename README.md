@@ -105,6 +105,12 @@ https://www.sleepcycle.com/how-to-fall-asleep/how-to-power-nap-like-a-pro/
 
 https://www.theodysseyonline.com/4-reasons-your-family-best-support-system
 
+https://www.lifehack.org/734000/ways-working-moms-balance-work-and-family
+
+https://www.mentalhealth.org.uk/a-to-z/w/work-life-balance
+
+
+
 #### Images:
 
 https://www.pexels.com/@tatianasyrikova viewed on 15.05.2022
