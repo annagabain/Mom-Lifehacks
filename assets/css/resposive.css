@@ -43,8 +43,8 @@
         justify-content: center;
     }
     #medalions img {
-        width: 250px;
-        height: 250px;
+        width: 200px;
+        height: 200px;
     }
     
   }
@@ -126,8 +126,8 @@
         justify-content: center;
     }
     #medalions img {
-        width: 200px;
-        height: 200px;
+        width: 180px;
+        height: 180px;
     }
     
   }
@@ -144,20 +144,20 @@
 
     header {
         padding: 0px 0px 30px 0px;
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
 
     #banner-container {
-        height: 250px;
+        height: 200px;
     }
     
     #banner1 {
-        height: 300px;
+        height: 200px;
     }
 
     #title1 {
-      font-size: 1.8rem;
-      padding: 20px 30px 0px 0px;
+      font-size: 1.5rem;
+      padding: 5px 10px 0px 0px;
       text-align: right;
 
     }
@@ -165,12 +165,16 @@
     #title1 h4 {
         font-style: light;
         font-size: 0.6rem;
-        text-align: right;
     }
-
 
     h3 {
         text-align: center;
+        font-size: medium;
+    }
+
+    .navigation-item {
+        font-size: 1.2rem;
+        line-height: 110%;
     }
 
     p {
@@ -183,7 +187,7 @@
 
     #work-life {
         text-align: center;
-        padding: 50px 10px;
+        padding: 10px 10px;
     }
 
     .lifehack {
@@ -192,7 +196,7 @@
     }
 
     .lifehack div {
-        /* padding: 20px 20px; */
+        padding: 5px 5px;
     }
 
     .column-count {
@@ -201,8 +205,8 @@
 
     
     #medalions img {
-        width: 180px;
-        height: 180px;
+        width: 160px;
+        height: 160px;
     }
 
     #contact {
@@ -221,9 +225,9 @@
   */
   
   @media (max-width: 480px) {
-    
+      
     header {
-        padding: 0px 0px 30px 0px;
+        padding: 0px 0px 0.2px 0px;
         font-size: 0.8rem;
         text-align: left;
     }
@@ -235,36 +239,31 @@
 
         display: flex;
         float: left;
-        flex-direction: column-reverse;
-        background-color: #A67153;
-        color: #FAF7F4;
-    }
-
-    #navigation a:hover {
-        background-color: #FAF7F4;
-        color: #455359;
+        flex-direction: row-reverse;
+        background-color: #D8CBC4;
+        position: fixed;
     }
 
    ul {
-        padding: 5px 0px 0px 20px;
+        padding: 5px 0px 0px 10px;
         margin: 0;
     }
 
 
     #banner-container {
         height: 140px;
+        margin-top: 40px;
     }
     
     #banner1 {
         height: 140px;
+
     }
 
-
-
     #title1 {
-      font-size: 1.3rem;
-      line-height: 200%;
-      padding: 0px 5px 0px 0px;
+      font-size: 1.1rem;
+      line-height: 400%;
+      padding: 0px 10px 0px 0px;
       justify-content: flex-end;
     }
 
@@ -279,9 +278,17 @@
         text-align: center;
     }
 
+    #top {
+        font-weight: light;
+        font-size: 0.7rem;
+        letter-spacing: 0.2px;
+        line-height: 1.5;
+    }
+
+
+
     .navigation-item {
         font-family: 'Open Sans', sans-serif;
-        text-align: left;
         font-style: normal;
         font-weight: light;
         font-size: 0.9rem;
@@ -292,7 +299,7 @@
 
     h3 {
         margin: 0;
-        font-size: 1.1rem;
+        font-size: 0.8rem;
     }
 
     p {
@@ -321,7 +328,7 @@
     }
 
     .lifehack div {
-        /* padding: 20px 20px; */
+        padding: 10px 15px;
     }
 
     .column-count {
@@ -332,8 +339,9 @@
         justify-content: center;
     }
     #medalions img {
-        width: 170px;
-        height: 170px;
+        width: 100px;
+        height: 100px;
+        padding: 0;
     }
 
     #contact {
