@@ -91,7 +91,7 @@ How-to references: https://www.w3schools.com/
 
 Lifehack icons: https://fontawesome.com/
 
-#### Content:
+#### Content ideas:
 
 https://www.themuse.com/advice/13-life-hacks-for-careerloving-moms-and-dads
 
@@ -109,6 +109,16 @@ https://www.lifehack.org/734000/ways-working-moms-balance-work-and-family
 
 https://www.mentalhealth.org.uk/a-to-z/w/work-life-balance
 
+https://defeatingbusy.com/10-tasks-moms-consider-hiring-out/
+
+https://player.fm/series/brainy-moms/busy-mom-how-to-run-your-home-on-autopilot-with-guest-carrie-olsen-lcsw
+
+https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
+
+https://workingmomkind.com/
+
+https://callemmy.com/morning-routine-for-working-moms/
+
 
 
 #### Images:
@@ -123,4 +133,4 @@ https://www.pexels.com/@karolina-grabowska/ viewed on 14.05.2022
 
 Mood board creation on  https://www.canva.com/ platform on 17.05.202
 
-Color palette selection with https://color.adobe.com/create/color-wheel on 17.05.202
+Color palette selection with https://color.adobe.com/create/color-wheel on 17.05.2022
