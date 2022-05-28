@@ -2,16 +2,17 @@
 
 ## 10  ideas for happy work-life balance
 
-Look, how it turned out! 
+This project is a Portfolio Project Nr1 for Code Institute Assessment. It is for educational purposes. The main programming languages are HTML and CSS. Further tools and languages will be used for the consequent projects. 
 
-## :point_down:
+Below you can see the image of the website responisveness, as well as further information about how it was developed, tested and deployed.
 
-## Deployed Site
+## View the Live Website :point_down:
 
-[https://annagabain.github.io/Mom-Lifehacks/index.html](https://annagabain.github.io/Mom-Lifehacks/index.html)
+## [https://annagabain.github.io/Mom-Lifehacks/index.html](https://annagabain.github.io/Mom-Lifehacks/index.html)
 
 
-<img width="100%" alt="image" src="https://raw.githubusercontent.com/annagabain/Mom-Lifehacks/main/assets/images/Screenshot%202022-05-24%20171053.jpg">
+
+<img width="100%" alt="image" src="assets/md-images/I-am-responsive-mom-lifehacks-media-sizes.jpg">
 
 ### Project Steps:
 
