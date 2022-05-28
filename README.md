@@ -17,18 +17,26 @@ Below you can see the image of the website responisveness, as well as further in
 # Contents:
 
 - [User Experience and User Interface Design UX and UI](#User-Experience-and-User-Interface-Design-UX-and-UI)
-- Accessibility and responsivity
-- [Development Stages](#development-stages)
   - [Mood Board](#mood-board)
   - [Wireframes](#wireframes)
   - [Colours](#colours)
-- Testing Stages
-  - development 
-  - implementation
-  - deployment
-- [Deployment to GitHub](#deployment-to-github)
-  - [GitHub Pages](#github-page)
-- Documentation
+- Accessibility and responsivity
+- [Features](#features)
+  - [Navigation bar](#navigation-bar)
+  - [About](#about)
+  - [10 Lifehacks](#10-lifehacks)
+  - [Contact](#contact)
+  - [Footer](#footer)
+- [Development Stages](#development-stages)
+  - Planning
+  - Layout Creation
+  - Design
+  - Testing Stages
+    - Validators 
+    - Implementation
+  - [Deployment to GitHub](#deployment-to-github)
+    - [GitHub Pages](#github-page)
+- [Documentation](#documentation)
   - Code structure
   - Organization
 - [Sources & Credits](#sources--credits)
@@ -38,6 +46,7 @@ Below you can see the image of the website responisveness, as well as further in
 
 
 # User Experience and User Interface Design UX and UI
+
 ### Mood Board:
 
 <img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board3.png">
@@ -52,8 +61,36 @@ Below you can see the image of the website responisveness, as well as further in
 <img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette3.png">
 
 
+# Accessibility and responsivity
+
+media queries
+
+<img width="719" alt="image" src="assets/md-images/media-queries.jpg">
+
+alt
+
+<img width="719" alt="image" src="assets/md-images/alt.jpg">
+
+contrast 
+
+<img width="350" alt="image" src="assets/md-images/contrast1.jpg"> <img width="350" alt="image" src="assets/md-images/contrast2.jpg">
+
+
+# Features
+
+### Navigation bar
+Sticky for mobiles
+### About
+### 10 Lifehacks
+columns for desktops
+### Contact
+dummy button
+### Footer
+social media
 
 # Development Stages:
+
+### Planning
 
 - [x] read project requirments 
 
@@ -63,8 +100,7 @@ Below you can see the image of the website responisveness, as well as further in
   - [x] sources
   - [x] images
   
-- [x] design wireframes
-  - [x] choose basic colors
+### Layout Creation
 
 - [x] create a repository on GitHub
   - [x] setup
@@ -77,19 +113,29 @@ Below you can see the image of the website responisveness, as well as further in
   - [x] images
   - [x] css structure rules
  
+### Design
+
+- [x] design wireframes
+  - [x] choose basic colors
+
 - [x] design the mood board with colors and themes
   - [x] apply the colors to the css
- 
+
+### Testing Stages
+
+#### Validators 
 - [ ] test
   - [ ] check for errors
   - [x] validate html
   - [ ] validate css
   - [ ] accessibility
 
+#### Implementation
+
 - [ ] deploy
   - [x]  GitHub pages
   - [ ]  edit the Readme file
-    - [ ] introduction
+    - [x] introduction
     - [x] the title image (4 responsive formats)
     - [ ] describe the sections and attach images to each
     - [ ] testing and deployment details
@@ -100,13 +146,16 @@ Below you can see the image of the website responisveness, as well as further in
 - [ ] submit the project
 
 
-# Deployment to GitHub
+### Deployment to GitHub
 
-### GitHub page:
+#### GitHub page:
 
 The current live version of the project can be seen here:
 https://annagabain.github.io/Mom-Lifehacks/index.html
 
+# Documentation
+### Code structure
+### Organization
 
 # Sources & Credits:
 
