@@ -274,10 +274,6 @@
         justify-content: flex-end;
     }
 
-    h3 {
-        text-align: center;
-    }
-
     .top {
         font-weight: light;
         font-size: 0.7rem;
@@ -297,14 +293,16 @@
         padding: 20px 10px 0px 20px;
     }
 
+    
     h3 {
+        text-align: center;
         margin: 0;
         font-size: 0.8rem;
     }
 
     p {
         text-align: justify;
-        font-size: small;
+        font-size: 0.9rem;
         line-height: 1.5;
         margin: 1px;
 
@@ -315,11 +313,8 @@
     }
 
     #work-life p {
-        text-align: justify;
-        font-size: small;
-        line-height: 1.5;
+        text-align: center;
         margin: 1px;
-
     }
 
     .lifehack {
