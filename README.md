@@ -14,7 +14,41 @@ Below you can see the image of the website responisveness, as well as further in
 
 <img width="100%" alt="image" src="assets/md-images/I-am-responsive-mom-lifehacks-media-sizes.jpg">
 
-### Project Steps:
+### Contents:
+
+- [User Experience and User Interface Design UX and UI](#User Experience and User Interface Design UX and UI)
+- Accessibility and responsivity
+- Development Stages
+- Testing Stages
+  - development 
+  - implementation
+  - deployment
+- Deployment to GitHub
+- Documentation
+  - Code structure
+  - Organization
+
+
+## User Experience and User Interface Design UX and UI
+### Mood Board:
+
+<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board3.png">
+
+
+
+### Wireframes:
+
+<img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
+
+
+
+### Colors:
+
+<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette3.png">
+
+
+
+### Development Stages:
 
 - [x] read project requirments 
 
@@ -60,24 +94,6 @@ Below you can see the image of the website responisveness, as well as further in
 - [ ] go through the requirements checklist
 - [ ] submit the project
 
-
-
-
-### Mood Board:
-
-<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board3.png">
-
-
-
-### Wireframes:
-
-<img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
-
-
-
-### Colors:
-
-<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette3.png">
 
 
 ### GitHub page:
