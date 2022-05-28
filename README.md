@@ -42,7 +42,7 @@ Look, how it turned out!
  
 - [ ] test
   - [ ] check for errors
-  - [ ] validate html
+  - [x] validate html
   - [ ] validate css
   - [ ] accessibility
 
@@ -50,7 +50,7 @@ Look, how it turned out!
   - [x]  GitHub pages
   - [ ]  edit the Readme file
     - [ ] introduction
-    - [ ] the title image (4 responsive formats)
+    - [x] the title image (4 responsive formats)
     - [ ] describe the sections and attach images to each
     - [ ] testing and deployment details
     - [x] credits to content and media 
