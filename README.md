@@ -8,7 +8,7 @@ Look, how it turned out!
 
 ## Deployed Site
 
-[https://annagabain.github.io/Mom-Lifehacks](https://annagabain.github.io/Mom-Lifehacks/index.html)
+[https://annagabain.github.io/Mom-Lifehacks/index.html](https://annagabain.github.io/Mom-Lifehacks/index.html)
 
 
 <img width="100%" alt="image" src="https://raw.githubusercontent.com/annagabain/Mom-Lifehacks/main/assets/images/Screenshot%202022-05-24%20171053.jpg">
@@ -82,7 +82,7 @@ Look, how it turned out!
 ### GitHub page:
 
 The current live version of the project can be seen here:
-https://annagabain.github.io/Mom-Lifehacks
+https://annagabain.github.io/Mom-Lifehacks/index.html
 
 
 ### Sources & Credits:
