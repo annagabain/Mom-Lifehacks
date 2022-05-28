@@ -26,12 +26,12 @@ Below you can see the image of the website responisveness, as well as further in
   - development 
   - implementation
   - deployment
-- Deployment to GitHub
+- [Deployment to GitHub](#deployment-to-github)
   - [GitHub Pages](#github-page)
 - Documentation
   - Code structure
   - Organization
-- [Sources & Credits](#sources-&-credits)
+- [Sources & Credits](#sources--credits)
   - [Content Ideas](#content-ideas)
   - [Images](#images)
   - [Tools](#tools)
@@ -100,6 +100,7 @@ Below you can see the image of the website responisveness, as well as further in
 - [ ] submit the project
 
 
+# Deployment to GitHub
 
 ### GitHub page:
 
