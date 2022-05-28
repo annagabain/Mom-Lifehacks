@@ -19,9 +19,9 @@ Below you can see the image of the website responisveness, as well as further in
 - [User Experience and User Interface Design UX and UI](#User-Experience-and-User-Interface-Design-UX-and-UI)
 - Accessibility and responsivity
 - [Development Stages](#development-stages)
-  - [Mood Board](###mood-board)
-  - [Wireframes](###wireframes)
-  - [Colours](###colors)
+  - [Mood Board](#mood-board)
+  - [Wireframes](#wireframes)
+  - [Colours](#colours)
 - Testing Stages
   - development 
   - implementation
