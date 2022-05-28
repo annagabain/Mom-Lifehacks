@@ -8,15 +8,15 @@ Below you can see the image of the website responisveness, as well as further in
 
 ## View the Live Website :point_down:
 
-## [https://annagabain.github.io/Mom-Lifehacks/index.html](https://annagabain.github.io/Mom-Lifehacks/index.html)
+## [Live View](https://annagabain.github.io/Mom-Lifehacks/index.html)
 
 
 
 <img width="100%" alt="image" src="assets/md-images/I-am-responsive-mom-lifehacks-media-sizes.jpg">
 
-### Contents:
+# Contents:
 
-- [User Experience and User Interface Design UX and UI](#User Experience and User Interface Design UX and UI)
+- [User Experience and User Interface Design UX and UI](#User-Experience-and-User-Interface-Design-UX-and-UI)
 - Accessibility and responsivity
 - Development Stages
 - Testing Stages
@@ -28,8 +28,20 @@ Below you can see the image of the website responisveness, as well as further in
   - Code structure
   - Organization
 
+# Table of contents
 
-## User Experience and User Interface Design UX and UI
+- [User Experience and User Interface Design UX and UI](#ux)
+    - [Website owner business goals](#website-owner-business-goals)
+    - [User goals](#user-goals)
+        - [New user goals](#new-user-goals)
+
+  
+
+
+
+
+# UX 
+# User Experience and User Interface Design UX and UI
 ### Mood Board:
 
 <img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board3.png">
