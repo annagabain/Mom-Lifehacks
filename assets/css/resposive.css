@@ -15,7 +15,7 @@
 
 @media (min-width: 1281px) {
   
-    #medalions {
+    .medalions {
         display: flex;
         justify-content: center;
     }
@@ -38,11 +38,11 @@
     }
 
     
-    #medalions {
+    .medalions {
         display: flex;
         justify-content: center;
     }
-    #medalions img {
+    .medalions img {
         width: 200px;
         height: 200px;
     }
@@ -90,11 +90,11 @@
         text-align: left;
     }
 
-    #medalions {
+    .medalions {
         display: flex;
         justify-content: center;
     }
-    #medalions img {
+    .medalions img {
         width: 200px;
         height: 200px;
     }
@@ -121,11 +121,11 @@
     }
 
 
-    #medalions {
+    .medalions {
         display: flex;
         justify-content: center;
     }
-    #medalions img {
+    .medalions img {
         width: 180px;
         height: 180px;
     }
@@ -204,7 +204,7 @@
     }
 
     
-    #medalions img {
+    .medalions img {
         width: 160px;
         height: 160px;
     }
@@ -278,7 +278,7 @@
         text-align: center;
     }
 
-    #top {
+    .top {
         font-weight: light;
         font-size: 0.7rem;
         letter-spacing: 0.2px;
@@ -334,11 +334,11 @@
     .column-count {
         columns: 1;
     }
-    #medalions {
+    .medalions {
         display: flex;
         justify-content: center;
     }
-    #medalions img {
+    .medalions img {
         width: 100px;
         height: 100px;
         padding: 0;
