@@ -88,22 +88,43 @@ Alt
 
 <img width="719" alt="image" src="assets/md-images/alt.jpg">
 
-contrast 
+Contrast 
 
 <img width="350" alt="image" src="assets/md-images/contrast1.jpg"> <img width="350" alt="image" src="assets/md-images/contrast2.jpg">
 
 
 ### Responsivity
 
-media queries
+Media queries
 
 <img width="719" alt="image" src="assets/md-images/media-queries.jpg">
 
 
 # Features
 
-### Navigation bar
-Sticky for mobiles
+### Navigation
+
+Navigation bar on the top right of the website
+
+<img width="350" alt="image" src="assets/md-images/navigation-bar.jpg">
+
+Navigation bar when hovering over with a mouse
+
+<img width="350" alt="image" src="assets/md-images/navigation-bar-active.bmp">
+
+Navigation bar to the left of the screen for mobile devices and moving along with the navigation
+<img width="350" alt="image" src="assets/md-images/navigation-bar3-sticky.jpg">
+
+Jump to a Lifehack bar
+
+<img width="350" alt="image" src="assets/md-images/jump-to-bar.jpg">
+<img width="350" alt="image" src="assets/md-images/jump-to-bar -active.jpg">
+
+Top button that is fixed to the bottom no matter where you scrolled
+
+<img width="350" alt="image" src="assets/md-images/top-fixed.jpg">
+
+
 ### About
 ### 10 Lifehacks
 columns for desktops
