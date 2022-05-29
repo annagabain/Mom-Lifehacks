@@ -20,7 +20,9 @@ Below you can see the image of the website responisveness, as well as further in
   - [Mood Board](#mood-board)
   - [Wireframes](#wireframes)
   - [Colours](#colours)
-- Accessibility and responsivity
+- [Accessibility and responsivity](#accessibility-and-responsivity)
+  - [Accessibility](#accessibility)
+  - [Responsivity](#responsivity)
 - [Features](#features)
   - [Navigation bar](#navigation-bar)
   - [About](#about)
@@ -61,19 +63,41 @@ Below you can see the image of the website responisveness, as well as further in
 <img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette3.png">
 
 
-# Accessibility and responsivity
+# Accessibility and Responsivity
 
-media queries
+### Accessibility
 
-<img width="719" alt="image" src="assets/md-images/media-queries.jpg">
+Semantic Html
+Text Content
+  headings, paragraphs, lists...
+Page Layouts
+ title, url, headings, text (keywords), link text, image alt, meta description, 
+UI Controls
+  buttons, links, forms, tab key?
+Form Labels
+  label, id, for, fieldset
+ARIA attributes !!!
 
-alt
+Aria
+<img width="719" alt="image" src="assets/md-images/aria-labels1.jpg">
+<img width="719" alt="image" src="assets/md-images/aria-labels2.jpg">
+<img width="719" alt="image" src="assets/md-images/aria-labels3.jpg">
+
+
+Alt
 
 <img width="719" alt="image" src="assets/md-images/alt.jpg">
 
 contrast 
 
 <img width="350" alt="image" src="assets/md-images/contrast1.jpg"> <img width="350" alt="image" src="assets/md-images/contrast2.jpg">
+
+
+### Responsivity
+
+media queries
+
+<img width="719" alt="image" src="assets/md-images/media-queries.jpg">
 
 
 # Features

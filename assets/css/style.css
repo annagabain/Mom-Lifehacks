@@ -54,17 +54,6 @@ a:hover {
     color: #FAF7F4;
 }
 
-
-/* #navigation a {
-    text-decoration: none;
-    color: inherit;
-}
-
-#navigation a:hover {
-    background-color: #A67153;
-    color: #FAF7F4;
-} */
-
 #banner-container {
     background-color: #455359;
 }
@@ -100,16 +89,16 @@ a:hover {
     background-size: cover;
   }
 
-#babykeyboard {
+#jump-to-lifehack {
+    font-size: 1em;
+    text-align: center;
+    background: #D8CBC4;
     display: flex;
-    justify-content: center;
-    padding: 0px 50px 0px 50px;   
-}
-
-#babykeyboard img {
-    border-radius: 50%;
-    width: 250px;
-    height: 250px;  
+    float: left;
+    flex-direction: column;
+    padding: 20px 20px 20px 20px;
+    margin-right: 20px;
+    line-height: 150%;
 }
 
 .top {
@@ -154,7 +143,7 @@ a:hover {
 
 #work-life p {
     text-align: left;
-    clear: left;
+    clear: top;
 }
 
 

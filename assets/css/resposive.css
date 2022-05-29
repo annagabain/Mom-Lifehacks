@@ -275,6 +275,7 @@
         justify-content: flex-end;
     }
 
+
     .top {
         font-weight: light;
         font-size: 0.7rem;
@@ -307,6 +308,12 @@
 
     }
 
+    #jump-to-lifehack {
+        font-size: 0.9em;
+        line-height: 150%;
+        float: right;
+    }
+
     #work-life {
         padding: 5px 25px;
     }
@@ -315,6 +322,7 @@
         text-align: center;
         margin: 1px;
     }
+
 
     .lifehack {
         padding: 5px 5px 5px 5px;
