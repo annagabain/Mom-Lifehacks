@@ -6,7 +6,7 @@
 
 #455359   - Sea Green
 
-#A67153   - Brown
+#A67153(old)  #6A4C39(new)   - Brown
 
 #0D0D0D   - Black-Brown */
 
@@ -25,7 +25,6 @@ body {
     padding: 10px 20px 50px 20px;
     text-align: center;
     background: #D8CBC4;
-    color: white;
     font-size: 30px;
   }
 
@@ -50,7 +49,7 @@ a {
 }
 
 a:hover {
-    background-color: #A67153;
+    background-color: #6A4C39;
     color: #FAF7F4;
 }
 
@@ -89,18 +88,6 @@ a:hover {
     background-size: cover;
   }
 
-#jump-to-lifehack {
-    font-size: 1em;
-    text-align: center;
-    background: #D8CBC4;
-    display: flex;
-    float: left;
-    flex-direction: column;
-    padding: 20px 20px 20px 20px;
-    margin-right: 20px;
-    line-height: 150%;
-}
-
 .top {
     /* color: #FAF7F4; */
     background: #D8CBC4;
@@ -135,6 +122,19 @@ a:hover {
     width: 30%;
 }
 
+
+#jump-to-lifehack {
+    font-size: 1em;
+    text-align: center;
+    background: #D8CBC4;
+    display: flex;
+    float: left;
+    flex-direction: column;
+    padding: 20px 20px 20px 20px;
+    margin-right: 20px;
+    line-height: 150%;
+}
+
 #work-life { 
     padding: 50px 50px 50px 50px;
     clear: left;
@@ -143,7 +143,6 @@ a:hover {
 
 #work-life p {
     text-align: left;
-    clear: top;
 }
 
 
@@ -217,7 +216,7 @@ p {
 }
 
 #footer div {
-    background-color: #A67153;
+    background-color: #6A4C39;
     text-align: center;
     text-indent: 30px;
     padding: 20px;
@@ -238,14 +237,14 @@ input[type=text], input[type=email], select, textarea {
     resize: vertical;
   }
   input[type=submit] {
-    background-color: #A67153;
+    background-color: #6A4C39;
     color: #FAF7F4;
     padding: 12px 20px;
     border: none;
     cursor: pointer;
   }
   input[type=submit]:hover {
-    background-color: #A67153;
+    background-color: #6A4C39;
   }
   .container {
     color: #0D0D0D;

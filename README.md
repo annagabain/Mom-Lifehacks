@@ -1,14 +1,14 @@
 # Mom Lifehacks
 
-## 10  ideas for happy work-life balance
+Mom Lifehacks is a website presenting 10 work-life balance ideas to working mothers. It aims to make their lives less stressfull and therefore happier. The lifehacks can be useful for home stay mothers, fathers and other child caretakers as well.
 
-This project is a Portfolio Project Nr1 for Code Institute Assessment. It is for educational purposes. The main programming languages are HTML and CSS. Further tools and languages will be used for the consequent projects. 
+This is the first Portfolio Project in frames of Code Institute Full Stack Web Developer Course Assessment. It is for educational purposes and the main programming languages are HTML and CSS. Further tools and languages will be implemented for the consequent projects. 
 
-Below you can see the image of the website responisveness, as well as further information about how it was developed, tested and deployed.
+Below you can see the image of the website on different devices, as well as further information about how it was developed, tested and deployed.
 
 ## View the Live Website :point_down:
 
-## [Live View](https://annagabain.github.io/Mom-Lifehacks/index.html)
+## [Live View Here](https://annagabain.github.io/Mom-Lifehacks/index.html)
 
 
 
