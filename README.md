@@ -16,38 +16,134 @@ Below you can see the image of the website on different devices, as well as furt
 
 ## Contents:
 
-- [User Experience and User Interface Design UX and UI](#User-Experience-and-User-Interface-Design-UX-and-UI)
-  - [Mood Board](#mood-board)
-  - [Wireframes](#wireframes)
-  - [Colours](#colours)
-- [Accessibility and responsivity](#accessibility-and-responsivity)
-  - [Accessibility](#accessibility)
-  - [Responsivity](#responsivity)
 - [Features](#features)
   - [Navigation bar](#navigation-bar)
   - [About](#about)
   - [10 Lifehacks](#10-lifehacks)
   - [Contact](#contact)
   - [Footer](#footer)
+
 - [Development Stages](#development-stages)
-  - Planning
-  - Layout Creation
-  - Design
+  - [Planning](#planning)
+  - [Layout Creation](#layout-creation)
+
+  - [User Experience and User Interface Design UX and UI](#User-Experience-and-User-Interface-Design-UX-and-UI)
+    - [Design Scope](#design-scope)
+    - [Mood Board](#mood-board)
+    - [Wireframes](#wireframes)
+    - [Colours](#colours)
+  - [Accessibility and responsivity](#accessibility-and-responsivity)
+    - [Accessibility](#accessibility)
+    - [Responsivity](#responsivity)
+
   - [Testing](#testing)
-    - Validators 
-    - Implementation
+    - [Validators](#validators)
+    - [Implementation](#implementation)
+
   - [Deployment to GitHub](#deployment-to-github)
     - [GitHub Pages](#github-page)
+
 - [Documentation](#documentation)
   - Code structure
   - Organization
+
 - [Sources & Credits](#sources--credits)
   - [Content Ideas](#content-ideas)
   - [Images](#images)
   - [Tools](#tools)
 
 
+## Features
+
+### Navigation
+
+Navigation bar on the top right of the website
+
+<img width="350" alt="image" src="assets/md-images/navigation-bar.jpg">
+
+Navigation bar when hovering over with a mouse
+
+<img width="350" alt="image" src="assets/md-images/navigation-bar-active.bmp">
+
+Navigation bar to the left of the screen for mobile devices and moving along with the navigation (fiexed positioning.)
+
+<img width="350" alt="image" src="assets/md-images/navigation-bar3-sticky.jpg">
+
+Jump to a Lifehack bar
+
+<img width="350" alt="image" src="assets/md-images/jump-to-bar -active.jpg">
+
+Top button that is fixed to the bottom no matter where you scrolled
+
+<img width="350" alt="image" src="assets/md-images/top-fixed.jpg">
+
+
+### About Work-Life
+
+An introduction for the content telling about importantce of work-life balance for mothers. This is the first out of three sections of the website.s
+
+<img width="719" alt="image" src="assets/md-images/About-work-life.jpg">
+
+### 10 Lifehacks
+
+medalion inspirational images
+changing number of columns to be convenient to read on mobiles, tablets and desktops
+
+<img width="719" alt="image" src="assets/md-images/ten-lifehacks-three-colums.jpg">
+
+<img width="719" alt="image" src="assets/md-images/ten-lifehacks-two-colums.jpg">
+
+<img width="719" alt="image" src="assets/md-images/ten-lifehacks-one-colum.jpg">
+
+
+
+### Contact
+contact form with a submit (dummy button)
+
+<img width="719" alt="image" src="assets/md-images/contact-form-required1.jpg">
+
+### Footer
+
+Social media icons with links
+
+<img width="350" alt="image" src="assets/md-images/footer.jpg">
+
+
+## Development Stages:
+
+### Planning
+
+- [x] read project requirments 
+
+- [x] brainstorm about the idea
+
+- [x] find content
+  - [x] sources
+  - [x] images
+  
+### Layout Creation
+
+- [x] create a repository on GitHub
+  - [x] setup
+  - [x] basic structure
+  - [x] initial commit
+ 
+- [x] create the site skeleton
+  - [x] basic layout
+  - [x] text content
+  - [x] images
+  - [x] css structure rules
+
+
 ## User Experience and User Interface Design UX and UI
+
+### Design Scope
+
+- [x] design wireframes
+  - [x] choose basic colors
+
+- [x] design the mood board with colors and themes
+  - [x] apply the colors to the css
 
 ### Mood Board:
 
@@ -100,71 +196,6 @@ Media queries
 <img width="719" alt="image" src="assets/md-images/media-queries.jpg">
 
 
-## Features
-
-### Navigation
-
-Navigation bar on the top right of the website
-
-<img width="350" alt="image" src="assets/md-images/navigation-bar.jpg">
-
-Navigation bar when hovering over with a mouse
-
-<img width="350" alt="image" src="assets/md-images/navigation-bar-active.bmp">
-
-Navigation bar to the left of the screen for mobile devices and moving along with the navigation
-<img width="350" alt="image" src="assets/md-images/navigation-bar3-sticky.jpg">
-
-Jump to a Lifehack bar
-
-<img width="350" alt="image" src="assets/md-images/jump-to-bar.jpg">
-<img width="350" alt="image" src="assets/md-images/jump-to-bar -active.jpg">
-
-Top button that is fixed to the bottom no matter where you scrolled
-
-<img width="350" alt="image" src="assets/md-images/top-fixed.jpg">
-
-
-### About Work-Life
-### 10 Lifehacks
-columns for desktops
-### Contact
-dummy button
-### Footer
-social media
-
-## Development Stages:
-
-### Planning
-
-- [x] read project requirments 
-
-- [x] brainstorm about the idea
-
-- [x] find content
-  - [x] sources
-  - [x] images
-  
-### Layout Creation
-
-- [x] create a repository on GitHub
-  - [x] setup
-  - [x] basic structure
-  - [x] initial commit
- 
-- [x] create the site skeleton
-  - [x] basic layout
-  - [x] text content
-  - [x] images
-  - [x] css structure rules
- 
-### Design
-
-- [x] design wireframes
-  - [x] choose basic colors
-
-- [x] design the mood board with colors and themes
-  - [x] apply the colors to the css
 
 ### Testing
 

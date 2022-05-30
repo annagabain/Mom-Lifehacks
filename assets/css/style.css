@@ -216,8 +216,8 @@ p {
 }
 
 #footer div {
-    background-color: #6A4C39;
-    text-align: center;
+    /* background-color: #6A4C39; */
+    text-align: left;
     text-indent: 30px;
     padding: 20px;
 }
