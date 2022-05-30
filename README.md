@@ -170,9 +170,11 @@ social media
 
 #### Validators 
 - [ ] test
-  - [ ] check for errors
+  - [x] check for errors
   - [x] validate html
-  - [ ] validate css
+  - [x] validate css
+
+
  Chrome Developer Tools
 
  Media Queries
@@ -185,19 +187,36 @@ social media
 
   - [ ] accessibility
 
-#### Implementation
+  Validate HTML in https://validator.w3.org/
 
-- [ ] deploy
-  - [x]  GitHub pages
+<img width="719" alt="image" src="assets/md-images/html-validator-errors.bmp">
+
+<img width="719" alt="image" src="assets/md-images/html-validator-errors4.bmp.jpg">
+
+<img width="719" alt="image" src="assets/md-images/html-validator-NO-errors7.bmp.jpg">
+
+  Validate CSS in https://jigsaw.w3.org/css-validator/
+
+<img width="719" alt="image" src="assets/md-images/css-validator-errors1.jpg">
+
+<img width="719" alt="image" src="assets/md-images/css-validator-errors2.jpg">
+
+
+
+
+
+## Implementation
+
+- [x] deploy to GitHub pages
   - [ ]  edit the Readme file
     - [x] introduction
     - [x] the title image (4 responsive formats)
     - [ ] describe the sections and attach images to each
-    - [ ] testing and deployment details
+    - [x] testing and deployment details
     - [x] credits to content and media 
   - [ ]  finishing touches
 
-- [ ] go through the requirements checklist
+- [x] go through the requirements checklist
 - [ ] submit the project
 
 
