@@ -17,8 +17,8 @@ Below you can see the image of the website on different devices, as well as furt
 ## Contents:
 
 - [Features](#features)
-  - [Navigation bar](#navigation-bar)
-  - [About](#about)
+  - [Navigation bar](#navigation)
+  - [About (Work-Life)](#about-work-life)
   - [10 Lifehacks](#10-lifehacks)
   - [Contact](#contact)
   - [Footer](#footer)
@@ -77,6 +77,8 @@ Top button that is fixed to the bottom no matter where you scrolled
 
 <img width="350" alt="image" src="assets/md-images/top-fixed.jpg">
 
+:arrow_up: [Back to Contents](#contents) 
+
 
 ### About Work-Life
 
@@ -109,6 +111,8 @@ Social media icons with links
 <img width="350" alt="image" src="assets/md-images/footer.jpg">
 
 
+:arrow_up: [Back to Contents](#contents) 
+
 ## Development Stages:
 
 ### Planning
@@ -135,6 +139,8 @@ Social media icons with links
   - [x] css structure rules
 
 
+:arrow_up: [Back to Contents](#contents) 
+
 ## User Experience and User Interface Design UX and UI
 
 ### Design Scope
@@ -158,6 +164,7 @@ Social media icons with links
 
 <img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette3.png">
 
+:arrow_up: [Back to Contents](#contents) 
 
 ## Accessibility and Responsivity
 
@@ -234,7 +241,7 @@ Media queries
 
 
 
-
+:arrow_up: [Back to Contents](#contents) 
 
 ## Implementation
 
@@ -259,8 +266,10 @@ The current live version of the project can be seen here:
 https://annagabain.github.io/Mom-Lifehacks/index.html
 
 # Documentation
-### Code structure
-### Organization
+## Code structure
+## Organization
+
+:arrow_up: [Back to Contents](#contents) 
 
 ## Sources & Credits:
 
