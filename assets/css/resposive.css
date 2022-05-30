@@ -309,9 +309,14 @@
     }
 
     #jump-to-lifehack {
+        font-size: 0.6rem;
         float: right;
         width: 80%;
         font-size: 1em;  
+    }
+
+    #jump-to-lifehack a {
+        height: 35px;
     }
 
     #work-life {
