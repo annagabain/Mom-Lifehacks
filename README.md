@@ -14,7 +14,7 @@ Below you can see the image of the website on different devices, as well as furt
 
 <img width="100%" alt="image" src="assets/md-images/I-am-responsive-mom-lifehacks-media-sizes.jpg">
 
-# Contents:
+## Contents:
 
 - [User Experience and User Interface Design UX and UI](#User-Experience-and-User-Interface-Design-UX-and-UI)
   - [Mood Board](#mood-board)
@@ -33,7 +33,7 @@ Below you can see the image of the website on different devices, as well as furt
   - Planning
   - Layout Creation
   - Design
-  - Testing Stages
+  - [Testing](#testing)
     - Validators 
     - Implementation
   - [Deployment to GitHub](#deployment-to-github)
@@ -47,7 +47,7 @@ Below you can see the image of the website on different devices, as well as furt
   - [Tools](#tools)
 
 
-# User Experience and User Interface Design UX and UI
+## User Experience and User Interface Design UX and UI
 
 ### Mood Board:
 
@@ -63,7 +63,7 @@ Below you can see the image of the website on different devices, as well as furt
 <img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette3.png">
 
 
-# Accessibility and Responsivity
+## Accessibility and Responsivity
 
 ### Accessibility
 
@@ -100,7 +100,7 @@ Media queries
 <img width="719" alt="image" src="assets/md-images/media-queries.jpg">
 
 
-# Features
+## Features
 
 ### Navigation
 
@@ -125,7 +125,7 @@ Top button that is fixed to the bottom no matter where you scrolled
 <img width="350" alt="image" src="assets/md-images/top-fixed.jpg">
 
 
-### About
+### About Work-Life
 ### 10 Lifehacks
 columns for desktops
 ### Contact
@@ -133,7 +133,7 @@ dummy button
 ### Footer
 social media
 
-# Development Stages:
+## Development Stages:
 
 ### Planning
 
@@ -166,13 +166,23 @@ social media
 - [x] design the mood board with colors and themes
   - [x] apply the colors to the css
 
-### Testing Stages
+### Testing
 
 #### Validators 
 - [ ] test
   - [ ] check for errors
   - [x] validate html
   - [ ] validate css
+ Chrome Developer Tools
+
+ Media Queries
+
+ Lighthouse
+
+<img width="719" alt="image" src="assets/md-images/lighthouse-test-desktop-1.jpg">
+
+<img width="719" alt="image" src="assets/md-images/lighthouse-test-mobile-1.jpg">
+
   - [ ] accessibility
 
 #### Implementation
@@ -202,13 +212,13 @@ https://annagabain.github.io/Mom-Lifehacks/index.html
 ### Code structure
 ### Organization
 
-# Sources & Credits:
+## Sources & Credits:
 
 How-to references: https://www.w3schools.com/
 
 Lifehack icons: https://fontawesome.com/
 
-#### Content ideas:
+### Content ideas:
 
 https://www.themuse.com/advice/13-life-hacks-for-careerloving-moms-and-dads
 
@@ -238,7 +248,7 @@ https://callemmy.com/morning-routine-for-working-moms/
 
 
 
-#### Images:
+### Images:
 
 https://www.pexels.com/@tatianasyrikova viewed on 15.05.2022
 
@@ -246,7 +256,7 @@ https://www.pexels.com/@karolina-grabowska/ viewed on 14.05.2022
 
 
 
-#### Tools:
+### Tools:
 
 Mood board creation on  https://www.canva.com/ platform on 17.05.202
 

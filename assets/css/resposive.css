@@ -309,23 +309,19 @@
     }
 
     #jump-to-lifehack {
-        font-size: 0.7em;
-        line-height: 150%;
-        float: left;
-        padding-right: 30%;
-        padding-left: 30%;
-        margin: 0;
+        float: right;
+        width: 80%;
+        font-size: 1em;  
     }
 
     #work-life {
         padding: 5px 25px;
-        clear: left;
         justify-content: center;
     }
 
     #work-life p {
         text-align: center;
-        margin: 1px;
+        margin: 5px;
         clear: left;
     }
 
