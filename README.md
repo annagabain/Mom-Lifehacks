@@ -6,9 +6,7 @@ This is the first Portfolio Project in frames of Code Institute Full Stack Web D
 
 Below you can see the image of the website on different devices, as well as further information about how it was developed, tested and deployed.
 
-## View the Live Website :point_down:
-
-## [Live View Here](https://annagabain.github.io/Mom-Lifehacks/index.html)
+## [View the Live Website :point_down:](https://annagabain.github.io/Mom-Lifehacks/index.html)
 
 
 
