@@ -124,6 +124,8 @@ This page opens in case there are broken links and the user requeted a page that
 
 ### Planning
 
+The following to-do list made it possible to consequently plan the project and execute it.
+
 - [x] read project requirments 
 
 - [x] brainstorm about the idea
@@ -131,6 +133,35 @@ This page opens in case there are broken links and the user requeted a page that
 - [x] find content
   - [x] sources
   - [x] images
+
+- [x] create the site skeleton
+  - [x] basic layout
+  - [x] write text content
+  - [x] add images
+  - [x] create css structure rules
+
+- [x] design
+  - [x] design wireframes
+  - [x] choose basic colors
+  - [x] design the mood board with colors and themes
+  - [x] apply the colors to the css
+
+- [x] create a repository on GitHub
+  - [x] setup
+  - [x] basic structure
+  - [x] initial commit
+ 
+- [x] deploy to GitHub pages
+  - [x]  edit the Readme file
+    - [x] introduction
+    - [x] the title image (4 responsive formats)
+    - [ ] describe the sections and attach images to each
+    - [x] testing and deployment details
+    - [x] credits to content and media 
+  - [ ]  finishing touches
+
+- [x] go through the requirements checklist
+- [ ] submit the project
   
 ### Layout Creation
 
@@ -249,21 +280,6 @@ Media queries
 
 
 :arrow_up: [Back to Contents](#contents) 
-
-## Implementation
-
-- [x] deploy to GitHub pages
-  - [ ]  edit the Readme file
-    - [x] introduction
-    - [x] the title image (4 responsive formats)
-    - [ ] describe the sections and attach images to each
-    - [x] testing and deployment details
-    - [x] credits to content and media 
-  - [ ]  finishing touches
-
-- [x] go through the requirements checklist
-- [ ] submit the project
-
 
 ### Deployment to GitHub
 
