@@ -13,250 +13,260 @@
     #0D0D0D   - Black-Brown */
 
 
-@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
 
-body {
-    color: #0D0D0D;
-    background-color: #D8CBC4;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: regular;
-}
+    body {
+        color: #0D0D0D;
+        background-color: #D8CBC4;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: regular;
+    }
 
-  header {
-    padding: 10px 20px 50px 20px;
-    text-align: center;
-    background: #D8CBC4;
-    font-size: 30px;
-  }
+    header {
+        padding: 10px 20px 50px 20px;
+        text-align: center;
+        background: #D8CBC4;
+        font-size: 30px;
+    }
 
-#navigation {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: regular;
-    font-size: 100%;
-    letter-spacing: 4px;
-    color: #0D0D0D;
-}
-
-
-#navigation li {
-    float: right;
-    list-style-type: none;
-    margin-right: 30px;
-}
-
-a {
-    text-decoration: none;
-    color: inherit;
-}
-
-a:hover {
-    background-color: #6A4C39;
-    color: #FAF7F4;
-}
-
-#banner-container {
-    background-color: #455359;
-}
-  
-#title1 {
-
-    font-family: 'Lemonada', cursive, sans-serif;
-    font-style: normal;
-    font-weight: light;
-    font-size: 3rem;
-    letter-spacing: 0.1em;
-    line-height: 90%;
-    padding: 120px 50px 50px 50px;
-    color: #FAF7F4;
-    text-align: right;
-}
-
-#title1 h2 {
-    font-style: light;
-    font-size: 0.9rem;
-   
-}
+    #navigation {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: regular;
+        font-size: 100%;
+        letter-spacing: 4px;
+        color: #0D0D0D;
+    }
 
 
-#banner1 {
-    height: 500px;
-    width: 100%;
-    display: block;
-    background: #455359;
-    background: url('../images/pexels-tatiana-syrikova-3933395-banner.png')  center; 
-    background-size: cover;
-  }
+    #navigation li {
+        float: right;
+        list-style-type: none;
+        margin-right: 30px;
+    }
 
-.top {
-    /* color: #FAF7F4; */
-    background: #D8CBC4;
-    opacity: 1;
-    position: fixed;
-    bottom: 10px;
-    right: 5px;
-    font-size: 90%;
-    letter-spacing: 1px;
-    padding: 5px 5px;
-}
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
 
-.navigation-item {
-    font-family: 'Open Sans', sans-serif;
-     text-align: center;
-     padding-top: 20px;
-     padding-left: 10px;
-    
-     font-style: normal;
-     font-weight: light;
-     font-size: 1.5rem;
-     letter-spacing: 0.1em;
-     line-height: 90%;
-}
+    a:hover {
+        background-color: #6A4C39;
+        color: #FAF7F4;
+    }
 
-.three-images {
-    display: flex;
-    justify-content: space-around;
+    #banner-container {
+        background-color: #455359;
+    }
 
-}
-.three-images img {
-    width: 30%;
-}
+    #title1 {
 
-#jump-to-a-lifehack-heading {
-    background-color: #D8CBC4;
-}
-#jump-to-lifehack {
-    font-size: 1em;
-    text-align: left;
-    background: #D8CBC4;
-    justify-content: center;
-    line-height: 200%;
-    letter-spacing: 2px;
-    padding: 50px;
-}
+        font-family: 'Lemonada', cursive, sans-serif;
+        font-style: normal;
+        font-weight: light;
+        font-size: 3rem;
+        letter-spacing: 0.1em;
+        line-height: 90%;
+        padding: 120px 50px 50px 50px;
+        color: #FAF7F4;
+        text-align: right;
+    }
+
+    #title1 h2 {
+        font-style: light;
+        font-size: 0.9rem;
+
+    }
 
 
-h2 {
-    clear: both;
-}
+    #banner1 {
+        height: 500px;
+        width: 100%;
+        display: block;
+        background: #455359;
+        background: url('../images/pexels-tatiana-syrikova-3933395-banner.png') center;
+        background-size: cover;
+    }
 
-#work-life { 
-    padding: 50px 50px 50px 50px;
-    clear: left;
-    background-color: #FAF7F4;
-}
+    .top {
+        /* color: #FAF7F4; */
+        background: #D8CBC4;
+        opacity: 1;
+        position: fixed;
+        bottom: 10px;
+        right: 5px;
+        font-size: 90%;
+        letter-spacing: 1px;
+        padding: 5px 5px;
+    }
 
-#work-life p {
-    text-align: left;
-}
+    .navigation-item {
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+        padding-top: 20px;
+        padding-left: 10px;
 
+        font-style: normal;
+        font-weight: light;
+        font-size: 1.5rem;
+        letter-spacing: 0.1em;
+        line-height: 90%;
+    }
 
-.medalions img {
-    border-radius: 50%;
-    width: 300px;
-    height: 300px;  
-    padding: 10px;
-    text-align: center;
-    margin: auto;
-    display: block;
-}
+    .three-images {
+        display: flex;
+        justify-content: space-around;
 
+    }
 
-.column-two {
-    columns: 2;
-}
+    .three-images img {
+        width: 30%;
+    }
 
-.column-count {
-    columns: 3;
-}
+    #jump-to-a-lifehack-heading {
+        background-color: #D8CBC4;
+    }
 
-
-.lifehack {
-    padding: 50px 50px 50px 50px;
-    background-color: #FAF7F4;
-
-}
-
-h3 {
-    font-family: 'Lemonada', cursive, sans-serif;
-    text-align: center;
-}
-
-.lifehack div {
-    padding: 15px 15px;
-    text-align: left;
-}
-
-.even-number-hack {
-    background-color: #D8CBC4;
-}
-
-.odd-number-hack {
-    background-color: #FAF7F4;
-}
-.free-image {
-    padding: 0px;
-}
-.free-image img {
-    width: 100%;
-    object-fit: contain;
-    text-align: center;
-    padding: 0px;
-}
-
-#contact {
-    text-align: center;
-    padding: 50px 50px 50px 50px;
-}
-
-.left {
-    float: left;
-}
-
-p {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: regular;
-    text-indent: 30px;
-    line-height: 32px;
-}
-
-#footer div {
-    text-align: left;
-    text-indent: 30px;
-    padding: 20px;
-}
+    #jump-to-lifehack {
+        font-size: 1em;
+        text-align: left;
+        background: #D8CBC4;
+        justify-content: center;
+        line-height: 200%;
+        letter-spacing: 2px;
+        padding: 50px;
+    }
 
 
+    h2 {
+        clear: both;
+    }
 
-/* Contact form */
-input[type=text], input[type=email], select, textarea {
-    background-color: #FAF7F4;
-    font-family: inherit;
-    width: 100%;
-    padding: 12px;
-    border: none;
-    box-sizing: border-box; 
-    margin-top: 6px;
-    margin-bottom: 16px;
-    resize: vertical;
-  }
-  input[type=submit] {
-    background-color: #6A4C39;
-    color: #FAF7F4;
-    padding: 12px 20px;
-    border: none;
-    cursor: pointer;
-  }
-  input[type=submit]:hover {
-    background-color: #6A4C39;
-  }
-  .container {
-    color: #0D0D0D;
-    background-color: #D8CBC4;
-    padding: 20px;
-  }
+    #work-life {
+        padding: 50px 50px 50px 50px;
+        clear: left;
+        background-color: #FAF7F4;
+    }
 
-  #form-response {
-      text-align: center;
-      padding: 50px;
-  }
+    #work-life p {
+        text-align: left;
+    }
+
+
+    .medalions img {
+        border-radius: 50%;
+        width: 300px;
+        height: 300px;
+        padding: 10px;
+        text-align: center;
+        margin: auto;
+        display: block;
+    }
+
+
+    .column-two {
+        columns: 2;
+    }
+
+    .column-count {
+        columns: 3;
+    }
+
+
+    .lifehack {
+        padding: 50px 50px 50px 50px;
+        background-color: #FAF7F4;
+
+    }
+
+    h3 {
+        font-family: 'Lemonada', cursive, sans-serif;
+        text-align: center;
+    }
+
+    .lifehack div {
+        padding: 15px 15px;
+        text-align: left;
+    }
+
+    .even-number-hack {
+        background-color: #D8CBC4;
+    }
+
+    .odd-number-hack {
+        background-color: #FAF7F4;
+    }
+
+    .free-image {
+        padding: 0px;
+    }
+
+    .free-image img {
+        width: 100%;
+        object-fit: contain;
+        text-align: center;
+        padding: 0px;
+    }
+
+    #contact {
+        text-align: center;
+        padding: 50px 50px 50px 50px;
+    }
+
+    .left {
+        float: left;
+    }
+
+    p {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: regular;
+        text-indent: 30px;
+        line-height: 32px;
+    }
+
+    #footer div {
+        text-align: left;
+        text-indent: 30px;
+        padding: 20px;
+    }
+
+
+
+    /* Contact form */
+    input[type=text],
+    input[type=email],
+    select,
+    textarea {
+        background-color: #FAF7F4;
+        font-family: inherit;
+        width: 100%;
+        padding: 12px;
+        border: none;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+    }
+
+    input[type=submit] {
+        background-color: #6A4C39;
+        color: #FAF7F4;
+        padding: 12px 20px;
+        border: none;
+        cursor: pointer;
+    }
+
+    input[type=submit]:hover {
+        background-color: #6A4C39;
+    }
+
+    .container {
+        color: #0D0D0D;
+        background-color: #D8CBC4;
+        padding: 20px;
+    }
+
+    #form-response {
+        text-align: center;
+        padding: 50px;
+    }

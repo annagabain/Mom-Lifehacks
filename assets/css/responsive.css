@@ -18,15 +18,15 @@
         display: flex;
         justify-content: center;
     }
-  }
-  
+}
 
-  /* 
+
+/* 
     ##Device = Laptops, Desktops
     ##Screen = B/w 1025px to 1280px
   */
-  
-  @media (min-width: 1025px) and (max-width: 1280px) {
+
+@media (min-width: 1025px) and (max-width: 1280px) {
     header {
         padding: 0px 0px 40px 0px;
         font-size: 1.5rem;
@@ -36,19 +36,20 @@
         display: flex;
         justify-content: center;
     }
+
     .medalions img {
         width: 200px;
         height: 200px;
     }
-  }
+}
 
-  
-  /* 
+
+/* 
     ##Device = Tablets, Ipads (portrait)
     ##Screen = B/w 768px to 1024px
   */
-  
-  @media (min-width: 768px) and (max-width: 1024px) {
+
+@media (min-width: 768px) and (max-width: 1024px) {
 
     header {
         padding: 0px 20px 40px 20px;
@@ -59,6 +60,7 @@
         background-color: #455359;
         height: 300px;
     }
+
     #banner1 {
         height: 350px;
     }
@@ -67,7 +69,7 @@
         text-align: right;
         font-size: 2.2rem;
         padding: 20px 30px 50px 50px;
-      }
+    }
 
     #jump-to-lifehack {
         font-size: 0.9rem;
@@ -89,26 +91,27 @@
         display: flex;
         justify-content: center;
     }
+
     .medalions img {
         width: 200px;
         height: 200px;
     }
-    
-  }
 
-  
-  /* 
+}
+
+
+/* 
     ##Device = Tablets, Ipads (landscape)
     ##Screen = B/w 768px to 1024px
   */
-  
-  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
 
     header {
         padding: 0px 0px 30px 0px;
         font-size: 1.2rem;
     }
-    
+
     .column-count {
         columns: 3;
     }
@@ -118,20 +121,21 @@
         display: flex;
         justify-content: center;
     }
+
     .medalions img {
         width: 180px;
         height: 180px;
     }
-    
-  }
 
-  
-  /* 
+}
+
+
+/* 
     ##Device = Low Resolution Tablets, Mobiles (Landscape)
     ##Screen = B/w 481px to 767px
   */
-  
-  @media (min-width: 481px) and (max-width: 767px) {
+
+@media (min-width: 481px) and (max-width: 767px) {
 
     header {
         padding: 0px 0px 30px 0px;
@@ -141,15 +145,15 @@
     #banner-container {
         height: 200px;
     }
-    
+
     #banner1 {
         height: 200px;
     }
 
     #title1 {
-      font-size: 1.5rem;
-      padding: 5px 10px 0px 0px;
-      text-align: right;
+        font-size: 1.5rem;
+        padding: 5px 10px 0px 0px;
+        text-align: right;
 
     }
 
@@ -191,7 +195,7 @@
     }
 
     #jump-to-lifehack {
-        font-size: 0.8rem; 
+        font-size: 0.8rem;
         text-align: center;
     }
 
@@ -207,17 +211,17 @@
     #contact {
         padding: 5px 5px 5px 5px;
     }
-    }
+}
 
 
 
-  /* 
+/* 
     ##Device = Most of the Smartphones Mobiles (Portrait)
     ##Screen = B/w 320px to 479px
   */
-  
-  @media (max-width: 480px) {
-      
+
+@media (max-width: 480px) {
+
     header {
         padding: 0px 0px 0.2px 0px;
         font-size: 0.8rem;
@@ -236,7 +240,7 @@
         position: fixed;
     }
 
-   ul {
+    ul {
         padding: 5px 0px 0px 10px;
         margin: 0;
     }
@@ -245,7 +249,7 @@
         height: 140px;
         margin-top: 40px;
     }
-    
+
     #banner1 {
         height: 155px;
 
@@ -302,7 +306,7 @@
 
     #jump-to-lifehack {
         font-size: 0.6rem;
-        font-size: 1em;  
+        font-size: 1em;
         text-align: center;
         padding: 10px 25px;
     }
@@ -330,15 +334,17 @@
     .lifehack div {
         padding: 10px 15px;
     }
-    
+
 
     .column-count {
         columns: 1;
     }
+
     .medalions {
         display: flex;
         justify-content: center;
     }
+
     .medalions img {
         width: 100px;
         height: 100px;
@@ -348,5 +354,4 @@
     #contact {
         padding: 5px 5px 5px 5px;
     }
-  }
-  
+}
