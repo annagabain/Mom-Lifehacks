@@ -307,9 +307,8 @@
     }
 
     #jump-to-lifehack {
-        font-size: 0.6rem;
-        font-size: 1em;
-        text-align: center;
+        font-size: 0.8rem;
+        text-align: left;
         padding: 10px 25px;
     }
 
@@ -318,13 +317,22 @@
     }
 
     #work-life {
-        padding: 10px 25px;
+        padding: 10px 5px;
         justify-content: left;
     }
 
     #work-life p {
         text-align: left;
         margin: 5px;
+    }
+
+    .three-images {
+        flex-direction: column;
+    }
+
+    .three-images img {
+        width: 100%;
+        padding-top: 5px;
     }
 
 
@@ -334,7 +342,7 @@
     }
 
     .lifehack div {
-        padding: 10px 15px;
+        padding: 10px 5px;
     }
 
 
@@ -354,6 +362,6 @@
     }
 
     #contact {
-        padding: 5px 5px 5px 5px;
+        padding: 0;
     }
 }

@@ -55,11 +55,11 @@ Below you can see the image of the website on different devices, as well as furt
 
 Navigation bar on the top right of the website allows the user to find all the main sections of the website. Hovering over the navigation items highlights it to white text on brown background indicating to the user that the link is ready to be clicked on.
 
+
+Navigation bar has fixed positioning for mobile devices and staying on top of the page along with scrolling.
+
 <img width="719" alt="image" src="assets/md-images/navigation-bar-active.bmp">
 
-Navigation bar to the left of the screen for mobile devices and moving along with the navigation (fiexed positioning.)
-
-<img width="350" alt="image" src="assets/md-images/navigation-bar3-sticky.jpg">
 
 Jump to a Lifehack section helps the user to quickly jump into reading the lifehack they are mostly interested in without scrolling through all of them. A valuable feautre for working parents, who have limited time to read this webpage. 
 Jump to a Lifehack section adapts the number of colums to adjust to the device it is being viewed on.
