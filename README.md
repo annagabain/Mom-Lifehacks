@@ -265,6 +265,8 @@ Media queries
 
   Validate HTML in https://validator.w3.org/
 
+  The files index.html, form-response.html and 404.html were tested through the validator.
+
 <img width="719" alt="image" src="assets/md-images/html-validator-errors.bmp">
 
 <img width="719" alt="image" src="assets/md-images/html-validator-errors4.bmp.jpg">
@@ -273,9 +275,31 @@ Media queries
 
   Validate CSS in https://jigsaw.w3.org/css-validator/
 
+  The files style.css and responsive.css were tested through the validator.
+
 <img width="719" alt="image" src="assets/md-images/css-validator-errors1.jpg">
 
+All the errors have been addressed and fixed.
+
 <img width="719" alt="image" src="assets/md-images/css-validator-errors2.jpg">
+
+After fixing the errors, a validator badge was awarded.
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+<p>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+    </a>
+</p>
+      
 
 
 

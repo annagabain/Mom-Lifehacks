@@ -20,7 +20,7 @@
         color: #0D0D0D;
         background-color: #D8CBC4;
         font-family: 'Open Sans', sans-serif;
-        font-weight: regular;
+        font-weight: 400;
     }
 
     header {
@@ -32,7 +32,7 @@
 
     #navigation {
         font-family: 'Open Sans', sans-serif;
-        font-weight: regular;
+        font-weight: 600;
         font-size: 100%;
         letter-spacing: 4px;
         color: #0D0D0D;
@@ -60,10 +60,8 @@
     }
 
     #title1 {
-
         font-family: 'Lemonada', cursive, sans-serif;
-        font-style: normal;
-        font-weight: light;
+        font-weight: 400;
         font-size: 3rem;
         letter-spacing: 0.1em;
         line-height: 90%;
@@ -73,9 +71,7 @@
     }
 
     #title1 h2 {
-        font-style: light;
         font-size: 0.9rem;
-
     }
 
 
@@ -105,9 +101,7 @@
         text-align: center;
         padding-top: 20px;
         padding-left: 10px;
-
-        font-style: normal;
-        font-weight: light;
+        font-weight: 600;
         font-size: 1.5rem;
         letter-spacing: 0.1em;
         line-height: 90%;
@@ -219,7 +213,7 @@
 
     p {
         font-family: 'Open Sans', sans-serif;
-        font-weight: regular;
+        font-weight: 400;
         text-indent: 30px;
         line-height: 32px;
     }

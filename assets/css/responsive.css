@@ -158,7 +158,6 @@
     }
 
     #title1 h2 {
-        font-style: light;
         font-size: 0.6rem;
     }
 
@@ -229,7 +228,7 @@
     }
 
     #navigation {
-        font-weight: light;
+        font-weight: 400;
         letter-spacing: 0.2px;
         line-height: 1.5;
         min-width: 100%;
@@ -266,14 +265,13 @@
     }
 
     #title1 h2 {
-        font-style: light;
         font-size: 0.6rem;
         line-height: 160%;
         justify-content: flex-end;
     }
 
     .top {
-        font-weight: light;
+        font-weight: 400;
         font-size: 0.7rem;
         letter-spacing: 0.2px;
         line-height: 1.5;
@@ -281,8 +279,6 @@
 
     .navigation-item {
         font-family: 'Open Sans', sans-serif;
-        font-style: normal;
-        font-weight: light;
         font-size: 0.9rem;
         letter-spacing: 0.1em;
         line-height: 120%;
