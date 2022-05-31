@@ -1,10 +1,10 @@
 /* All sizes cheatsheet:
-(min-width: 1281px)
-(min-width: 1025px) and (max-width: 1280px)
-(min-width: 768px) and (max-width: 1024px) portrait
-(min-width: 768px) and (max-width: 1024px) and (orientation: landscape)
-(min-width: 481px) and (max-width: 767px) small tablets and mobile landscape
-(min-width: 320px) and (max-width: 480px) mobile portrait */
+    (min-width: 1281px)
+    (min-width: 1025px) and (max-width: 1280px)
+    (min-width: 768px) and (max-width: 1024px) portrait
+    (min-width: 768px) and (max-width: 1024px) and (orientation: landscape)
+    (min-width: 481px) and (max-width: 767px) small tablets and mobile landscape
+    (min-width: 320px) and (max-width: 480px) mobile portrait */
 
 
 
@@ -14,16 +14,12 @@
 */
 
 @media (min-width: 1281px) {
-  
     .medalions {
         display: flex;
         justify-content: center;
     }
-
   }
   
-
-
 
   /* 
     ##Device = Laptops, Desktops
@@ -31,13 +27,11 @@
   */
   
   @media (min-width: 1025px) and (max-width: 1280px) {
-
     header {
         padding: 0px 0px 40px 0px;
         font-size: 1.5rem;
     }
 
-    
     .medalions {
         display: flex;
         justify-content: center;
@@ -46,10 +40,7 @@
         width: 200px;
         height: 200px;
     }
-    
   }
-
-
 
   
   /* 
@@ -105,8 +96,6 @@
     
   }
 
-
-
   
   /* 
     ##Device = Tablets, Ipads (landscape)
@@ -135,8 +124,6 @@
     }
     
   }
-
-
 
   
   /* 
@@ -187,7 +174,6 @@
         font-size: small;
         line-height: 1.5;
         margin: 1px;
-
     }
 
     #work-life {
@@ -213,7 +199,6 @@
         columns: 1;
     }
 
-    
     .medalions img {
         width: 160px;
         height: 160px;
@@ -222,13 +207,10 @@
     #contact {
         padding: 5px 5px 5px 5px;
     }
-
-}
-
+    }
 
 
-    
-  
+
   /* 
     ##Device = Most of the Smartphones Mobiles (Portrait)
     ##Screen = B/w 320px to 479px
@@ -269,7 +251,6 @@
 
     }
 
-
     #title1 {
         font-size: 1rem;
         line-height: 160%;
@@ -284,7 +265,6 @@
         line-height: 160%;
         justify-content: flex-end;
     }
-
 
     .top {
         font-weight: light;
@@ -303,7 +283,6 @@
         padding: 20px 10px 0px 20px;
     }
 
-    
     h3 {
         text-align: center;
         margin: 0;
@@ -315,7 +294,6 @@
         font-size: 0.9rem;
         line-height: 1.5;
         margin: 1px;
-
     }
 
     #jump-to-a-lifehack-heading {
@@ -370,6 +348,5 @@
     #contact {
         padding: 5px 5px 5px 5px;
     }
-    
   }
   

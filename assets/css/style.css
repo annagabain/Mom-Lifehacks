@@ -1,14 +1,16 @@
-/* #9C9FA6   - Grey
+    /* Colours of the Project
 
-#FAF7F4   - Off White
+    #9C9FA6   - Grey
 
-#D8CBC4   - Mokka Beige
+    #FAF7F4   - Off White
 
-#455359   - Sea Green
+    #D8CBC4   - Mokka Beige
 
-#A67153(old)  #6A4C39(new)   - Brown
+    #455359   - Sea Green
 
-#0D0D0D   - Black-Brown */
+    #A67153(old)  #6A4C39(new)   - Brown
+
+    #0D0D0D   - Black-Brown */
 
 
 @import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300&display=swap');
@@ -67,8 +69,6 @@ a:hover {
     line-height: 90%;
     padding: 120px 50px 50px 50px;
     color: #FAF7F4;
-    /* background: #455359; */
-
     text-align: right;
 }
 
@@ -80,7 +80,6 @@ a:hover {
 
 
 #banner1 {
-    /* the secret of babykeyboard sitting between two background colors is here */
     height: 500px;
     width: 100%;
     display: block;
@@ -222,7 +221,6 @@ p {
 }
 
 #footer div {
-    /* background-color: #6A4C39; */
     text-align: left;
     text-indent: 30px;
     padding: 20px;
