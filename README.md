@@ -14,7 +14,7 @@ Below you can see the image of the website on different devices, as well as furt
 ## Contents:
 
 - [Features](#features)
-  - [Navigation bar](#navigation)
+  - [Navigation](#navigation)
   - [About (Work-Life)](#about-work-life)
   - [10 Lifehacks](#10-lifehacks)
   - [Contact](#contact)
@@ -53,21 +53,18 @@ Below you can see the image of the website on different devices, as well as furt
 
 ### Navigation
 
-Navigation bar on the top right of the website
+Navigation bar on the top right of the website allows the user to find all the main sections of the website. Hovering over the navigation items highlights it to white text on brown background indicating to the user that the link is ready to be clicked on.
 
-<img width="350" alt="image" src="assets/md-images/navigation-bar.jpg">
-
-Navigation bar when hovering over with a mouse
-
-<img width="350" alt="image" src="assets/md-images/navigation-bar-active.bmp">
+<img width="719" alt="image" src="assets/md-images/navigation-bar-active.bmp">
 
 Navigation bar to the left of the screen for mobile devices and moving along with the navigation (fiexed positioning.)
 
 <img width="350" alt="image" src="assets/md-images/navigation-bar3-sticky.jpg">
 
-Jump to a Lifehack bar
+Jump to a Lifehack section helps the user to quickly jump into reading the lifehack they are mostly interested in without scrolling through all of them. A valuable feautre for working parents, who have limited time to read this webpage. 
+Jump to a Lifehack section adapts the number of colums to adjust to the device it is being viewed on.
 
-<img width="350" alt="image" src="assets/md-images/jump-to-bar.jpg">
+<img width="719" alt="image" src="assets/md-images/jump-to-bar.jpg">
 
 <img width="350" alt="image" src="assets/md-images/jump-to-bar-active.jpg">
 
@@ -86,8 +83,8 @@ An introduction for the content telling about importantce of work-life balance f
 
 ### 10 Lifehacks
 
-medalion inspirational images
-changing number of columns to be convenient to read on mobiles, tablets and desktops
+Medalion inspirational images are placed above every lifehack.
+The content changes the number of columns to adapt bing convenient to read on mobiles, tablets and desktops.
 
 <img width="719" alt="image" src="assets/md-images/ten-lifehacks-three-colums.jpg">
 
@@ -98,21 +95,25 @@ changing number of columns to be convenient to read on mobiles, tablets and desk
 
 
 ### Contact
-contact form with a submit button
+Contact form with a submit button. This form is providing the user a possibility to contact with the website author by giving a feedback about the lifehacks. All the fields are mandatory to be able to fully submit the form.
 
 <img width="719" alt="image" src="assets/md-images/contact-form-required1.jpg">
 
-#### Thank you for contacting page
+#### Thank you for Contacting Page
+
+After successfully submitting the feedback, a new 'thank you' page opens to reassure the user that the message has been recieved and will be responded to soon. The user has a possibility to continue surfing the website using the navigation menu buttons that lead back to the main page sections.
 
 <img width="719" alt="image" src="assets/md-images/thank-you-for-contacting.jpg">
 
 ### Footer
 
-Social media icons with links
+Social media icons with links to correspoding social media sites. As this project is currently for the educational purposes and there are not 'Mom Lifehacks' community pages, the buttons simply lead to the social media homepages instead.
 
 <img width="350" alt="image" src="assets/md-images/footer.jpg">
 
 ### 404 Error Page
+
+This page opens in case there are broken links and the user requeted a page that does not exist. As with the 'thank you' page, the user has a possibility to further navigate to the main website.
 
 <img width="719" alt="image" src="assets/md-images/404.jpg">
 
