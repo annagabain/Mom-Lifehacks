@@ -18,7 +18,10 @@ Below you can see the image of the website on different devices, as well as furt
   - [About (Work-Life)](#about-work-life)
   - [10 Lifehacks](#10-lifehacks)
   - [Contact](#contact)
+    - [Thank you for Contacting Page](#thank-you-for-contacting-page)
   - [Footer](#footer)
+  - [404 Error Page](#404-error-page)
+
 
 - [Development Stages](#development-stages)
   - [Planning](#planning)
@@ -39,10 +42,6 @@ Below you can see the image of the website on different devices, as well as furt
 
   - [Deployment to GitHub](#deployment-to-github)
     - [GitHub Pages](#github-page)
-
-- [Documentation](#documentation)
-  - Code structure
-  - Organization
 
 - [Sources & Credits](#sources--credits)
   - [Content Ideas](#content-ideas)
@@ -68,7 +67,9 @@ Navigation bar to the left of the screen for mobile devices and moving along wit
 
 Jump to a Lifehack bar
 
-<img width="350" alt="image" src="assets/md-images/jump-to-bar -active.jpg">
+<img width="350" alt="image" src="assets/md-images/jump-to-bar.jpg">
+
+<img width="350" alt="image" src="assets/md-images/jump-to-bar-active.jpg">
 
 Top button that is fixed to the bottom no matter where you scrolled
 
@@ -97,15 +98,23 @@ changing number of columns to be convenient to read on mobiles, tablets and desk
 
 
 ### Contact
-contact form with a submit (dummy button)
+contact form with a submit button
 
 <img width="719" alt="image" src="assets/md-images/contact-form-required1.jpg">
+
+#### Thank you for contacting page
+
+<img width="719" alt="image" src="assets/md-images/thank-you-for-contacting.jpg">
 
 ### Footer
 
 Social media icons with links
 
 <img width="350" alt="image" src="assets/md-images/footer.jpg">
+
+### 404 Error Page
+
+<img width="719" alt="image" src="assets/md-images/404.jpg">
 
 
 :arrow_up: [Back to Contents](#contents) 
@@ -262,9 +271,6 @@ Media queries
 The current live version of the project can be seen here:
 https://annagabain.github.io/Mom-Lifehacks/index.html
 
-# Documentation
-## Code structure
-## Organization
 
 :arrow_up: [Back to Contents](#contents) 
 
