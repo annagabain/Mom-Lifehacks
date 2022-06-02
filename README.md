@@ -293,15 +293,10 @@ A series of testing actions have been performed during and after coding. Main me
 
 The files style.css and responsive.css were tested through the validator:  https://jigsaw.w3.org/css-validator/
 
-  
-
-<img width="719" alt="image" src="assets/md-images/css-validator-errors1.jpg">
-
-All the errors have been addressed and fixed.
 
 <img width="719" alt="image" src="assets/md-images/css-validator-errors2.jpg">
 
-After fixing the errors, a validator badge was awarded.
+All the errors have been addressed and fixed. After fixing the errors, a validator badge was awarded.
 
 <p>
         <img style="border:0;width:88px;height:31px"
@@ -392,11 +387,11 @@ https://www.pexels.com/@karolina-grabowska/ viewed on 14.05.2022
 
 ### Tools:
 
-Mood board creation on  https://www.canva.com/ platform on 17.05.202
+Mood board creation on  https://www.canva.com/ platform on 17.05.2022
 
 Color palette selection with https://color.adobe.com/create/color-wheel on 17.05.2022
 
-'Persona'bord creation with https://xtensio.com last edit on 02-06.2022
+'Persona'bord creation with https://xtensio.com last edit on 02.06.2022
 
 
 ### Acknoledgements:
