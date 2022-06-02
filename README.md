@@ -161,6 +161,11 @@ The following to-do list made it possible to consequently plan the project and e
     - [x] credits to content and media 
   - [ ]  finishing touches
 
+  - [ ] test
+    - [x] check for errors
+    - [x] validate html
+    - [x] validate css
+
 - [x] go through the requirements checklist
 - [ ] submit the project
   
@@ -253,16 +258,13 @@ Media queries
 
 ### Testing
 
-#### Validators 
-- [ ] test
-  - [x] check for errors
-  - [x] validate html
-  - [x] validate css
+A series of testing actions have been performed during and after coding. Main methods: manual testing through VS code live view in Chrome Developer Tools, in particular through Media Queries and Lighthouse tools.
 
+#### Chrome Developer Tools
 
- Chrome Developer Tools
+ Chrome Developer Tools and Media Queries
 
- Media Queries
+<img width="719" alt="image" src="assets/md-images/media-queries.jpg">
 
  Lighthouse
 
@@ -270,7 +272,7 @@ Media queries
 
 <img width="719" alt="image" src="assets/md-images/lighthouse-test-mobile-1.jpg">
 
-  - [ ] accessibility
+#### Validators 
 
   Validate HTML in https://validator.w3.org/
 
@@ -304,7 +306,17 @@ After fixing the errors, a validator badge was awarded.
         src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
         alt="Valid CSS!" />
 </p>
-      
+
+
+#### Remaining Bugs
+
+Most of the errors and bugs have been adressed and fixed. However, depending on the time of the day, Google Developer Tool Lighthouse perfromance showed different results varying from 73% to 90%. 
+The lowest result of about 73% indicated slow performance. especially for mobile devices. This bug mostly occurs due to the images being larger than recommended for a quick web performance. This bug is treated as an 'oportunity' for future image resizing and better optimisation.
+
+<img width="719" alt="Lighthouse test number 3 for mobile performance" src="assets/md-images/lighthouse-test-mobile-3.jpg">
+
+
+<img width="719" alt="Unfixed bugs" src="assets/md-images/unfixed-bugs.jpg">
 
 
 
