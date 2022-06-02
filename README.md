@@ -28,7 +28,7 @@ Below you can see the image of the website on different devices, as well as furt
   - [Layout Creation](#layout-creation)
 
   - [User Experience and User Interface Design UX and UI](#User-Experience-and-User-Interface-Design-UX-and-UI)
-    - [User Analysis With 'Persona' Method]()
+    - [User Analysis With 'Persona' Method](#user-analysis-with-persona-method)
     - [Design Scope](#design-scope)
     - [Mood Board](#mood-board)
     - [Wireframes](#wireframes)
@@ -184,6 +184,12 @@ The following to-do list made it possible to consequently plan the project and e
 
 ### User Analysis With 'Persona' Method
 
+In order to identify and get to know the website user, Persona method was chosen. 
+This method helps 'bringing to life' a real individual with personality traits, favourite choices and preferences. Jane Smith is a working mother that loves biological products and natural tones. She will enjoy the website design and hopefully find the ideas on the website useful to impelment in life.
+The persona summary is created with a tool called Xtensio that helps to conduct vidual UX analysis.
+
+<img width="719" alt="Jane Smith persona" src="assets/md-images/MomLifehacks-persona-method.png">
+
 ### Design Scope
 
 - [x] design wireframes
@@ -234,7 +240,7 @@ Alt
 
 Contrast 
 
-<img width="350" alt="image" src="assets/md-images/contrast1.jpg"> <img width="350" alt="image" src="assets/md-images/contrast2.jpg">
+<img width="350" alt="image" src="assets/md-images/contrast2.jpg">
 
 
 ### Responsivity
@@ -289,18 +295,14 @@ All the errors have been addressed and fixed.
 After fixing the errors, a validator badge was awarded.
 
 <p>
-    <a href="http://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="http://jigsaw.w3.org/css-validator/images/vcss"
             alt="Valid CSS!" />
-    </a>
 </p>
 <p>
-<a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
         src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
         alt="Valid CSS!" />
-    </a>
 </p>
       
 
@@ -309,6 +311,10 @@ After fixing the errors, a validator badge was awarded.
 :arrow_up: [Back to Contents](#contents) 
 
 ### Deployment to GitHub
+
+Deployment to GitHub was done at the very beginning of the project for convenience of the current version control. After creating a new repository based on Code Institute's project template, in settings, the 'pages' option was chosen. After choosing the branch and confirming, the page was published on GitHUb server available for live public view. Potential placement on an own server is possible in the future.
+
+<img width="719" alt="image" src="assets/md-images/github-pages.jpg">
 
 #### GitHub page:
 
@@ -323,6 +329,11 @@ https://annagabain.github.io/Mom-Lifehacks/index.html
 How-to references: https://www.w3schools.com/
 
 Lifehack icons: https://fontawesome.com/
+
+Practical advice about UX: Book - Praxisbuch Usability und UX
+Was alle wissen sollten, die Websites und Apps entwickeln (in German)
+by Jens Jacobsen, Lorena Meyer, Rheinwerk Computing, edition 2017
+https://www.rheinwerk-verlag.de/praxisbuch-usability-und-ux/
 
 ### Content ideas:
 
