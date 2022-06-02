@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
+
+<!-- This stuff will be viewed by the search engines but not visible to the users -->
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,6 +14,7 @@
     <meta name="author" content="Anna Gabain">
     <title>Mom Lifehacks</title>
 
+    <!-- These two css stylesheets will be responsible for the whole websit's styling -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
 </head>
@@ -18,7 +22,7 @@
 <body>
 
     <header>
-
+        <!-- Navigation menu starts here -->
         <nav>
             <ul id="navigation">
                 <li>
@@ -33,7 +37,7 @@
             </ul>
         </nav>
     </header>
-
+    <!-- This section is the title page for the website such as a book cover for a book -->
     <section id="banner-container">
         <div id="banner1">
             <div id="title1">
@@ -45,9 +49,11 @@
 
 
     <section>
-
+        <!-- Here starts the intoduction to the Lifehacks -->
         <div id="work-life">
-            <h2 class="navigation-item">About Work-Life Balance for Mothers</h2>
+            <!-- The class "navigation item heading" shows the headings that open up when a navigation button is clicked -->
+            <h2 class="navigation-menu-heading">About Work-Life Balance for Mothers</h2>
+            <!-- Introductory content paragraph -->
             <p>
                 "The pressure of an increasingly demanding work culture is one of the biggest challenges to society... A
                 healthy work-life balance will mean different things to us all. It’s not so much about splitting your
@@ -65,7 +71,7 @@
 
         </div>
 
-
+        <!-- Inspirational images of motherhood as part of the introductory section -->
         <div class="three-images">
             <img src="assets/images/web-pexels-tatiana-syrikova-3975673.jpg" alt="Woman sitting on a terrace reading">
             <img src="assets/images/web-pexels-tatiana-syrikova-3968157.jpg" alt="Mother and child at the sunset">
@@ -76,12 +82,12 @@
     </section>
 
     <section>
-        <!-- to top button -->
+        <!-- To top button is for user convemience and is fixed to the right bottom of the page to enable easy navigation to the top of the site instead of annoying scrolling all the way up -->
         <div class="top">
             <a href="index.html" aria-label="Go to the top of the page">Top <i class="fa-solid fa-arrow-up"></i></a>
         </div>
 
-
+        <!-- This additional navigational section is for jumping directly to the desired lifehack. The user will find it very time-consuming -->
         <div class="lifehack">
 
             <h3 id="jump-to-a-lifehack-heading">Jump to a Lifehack <i class="fa-solid fa-arrow-down"></i></h3>
@@ -106,13 +112,18 @@
                 <br>
                 <a href="#ten" aria-label="Go to Lifehack 10">10. Join the Community</a>
             </div>
-            <h2 class="navigation-item"> 10 Lifehacks for Happy Working Mothers</h2>
 
+            <!-- The main sit content starts here -->
+            <h2 class="navigation-menu-heading"> 10 Lifehacks for Happy Working Mothers</h2>
+
+            <!-- Id-s indicate unique identification of a specific lifehack section, 
+                odd-number-hack class styles the sections like 1,3,5. 7.. with a background light beige to visually outline each lifehack. -->
             <div id="one" class="odd-number-hack">
                 <div class="medalions">
                     <img src="assets/images/web-pexels-karolina-grabowska-4959753.jpg" width="400"
                         alt="Mother with baby writing something on a paper">
                 </div>
+                <!-- The column-count class will be responsible for adjusting the amount of content colums to different devices -->
                 <div class="column-count">
                     <h3> 1. Manage your Time <i class="fa-solid fa-clock"></i> </h3>
                     <p>
@@ -142,6 +153,9 @@
                     </p>
                 </div>
             </div>
+
+            <!-- Id-s indicate unique identification of a specific lifehack section, 
+                even-number-hack class styles the sections like 2,4,6, 8.. with a background mocca beige to outline the lifehack. -->
 
             <div id="two" class="even-number-hack">
                 <div class="medalions">
@@ -293,7 +307,7 @@
         </div>
     </section>
 
-
+    <!-- In-between the main content paragraphs there is an inspirational image for a little break, thinking and self-reflection -->
     <div class="free-image">
         <img src="assets/images/web-pexels-tatiana-syrikova-3975656.jpg" width="600"
             alt="Mother with child working on a laptop in bed">
@@ -466,16 +480,18 @@
 
         </div>
     </section>
-
+    <!-- One last inspirational full-size image for (one last) impression about the website content -->
     <div class="free-image">
         <img src="assets/images/web-pexels-tatiana-syrikova-3975635.jpg" alt="">
     </div>
 
+    <!-- In this section the user can contact the author for a feedback. At the moment there is no database to store user input, as this project is about html and css only.
+    So the form is here for demonstrative purposes. -->
     <section>
 
         <div id="contact">
-            <h2 class="navigation-item">Contact</h2>
-
+            <h2 class="navigation-menu-heading">Contact</h2>
+<!-- There are mandatory fields to make the form ready for submission -->
             <div class="container">
                 <form action="form-response.html">
 
@@ -483,7 +499,7 @@
                     <input type="text" id="fname" name="firstname" placeholder="* Your name.." required>
 
                     <label for="lname">Last Name</label>
-                    <input type="text" id="lname" name="lastname" placeholder="* Your last name.." required>
+                    <input type="text" id="lname" name="lastname" placeholder="* Your last name..">
 
                     <label for="email">E-mail</label>
                     <input type="email" id="email" name="email" placeholder="* Your E-mail.." required>
@@ -500,6 +516,7 @@
 
     </section>
 
+    <!-- Here is the social media section. There are not Mom Lifehacks social media sources just yet, so the buttons simply lead to the social media main pages -->
 
     <footer id="footer">
 
@@ -515,7 +532,7 @@
         </div>
 
     </footer>
-    <!-- Font Awesome for ikons -->
+    <!-- Font Awesome for ikons have been used for styling the LIfehack headings -->
     <script src="https://kit.fontawesome.com/f8f41ed438.js" crossorigin="anonymous"></script>
 </body>
 

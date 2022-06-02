@@ -96,7 +96,7 @@
         padding: 5px 5px;
     }
 
-    .navigation-item {
+    .navigation-menu-heading {
         font-family: 'Open Sans', sans-serif;
         text-align: center;
         padding-top: 20px;
@@ -161,7 +161,7 @@
     .column-two {
         columns: 2;
     }
-
+    /*The column-count class will be responsible for adjusting the amount of content colums to different devices*/
     .column-count {
         columns: 3;
     }

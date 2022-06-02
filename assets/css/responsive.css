@@ -74,7 +74,7 @@
     #jump-to-lifehack {
         font-size: 0.9rem;
     }
-
+ /*The column-count class displays the main content paragraph in two column on Tablets and Ipads*/
     .column-count {
         columns: 2;
     }
@@ -111,7 +111,7 @@
         padding: 0px 0px 30px 0px;
         font-size: 1.2rem;
     }
-
+    /*The column-count class is responsible for 3 column main content paragraph*/
     .column-count {
         columns: 3;
     }
@@ -166,7 +166,7 @@
         font-size: medium;
     }
 
-    .navigation-item {
+    .navigation-menu-heading {
         font-size: 1.2rem;
         line-height: 110%;
     }
@@ -197,7 +197,7 @@
         font-size: 0.8rem;
         text-align: center;
     }
-
+    /*The column-count class displays the main content paragraph in just one column on Tablets and Mobiles*/
     .column-count {
         columns: 1;
     }
@@ -277,7 +277,7 @@
         line-height: 1.5;
     }
 
-    .navigation-item {
+    .navigation-menu-heading {
         font-family: 'Open Sans', sans-serif;
         font-size: 0.9rem;
         letter-spacing: 0.1em;
@@ -341,7 +341,7 @@
         padding: 10px 5px;
     }
 
-
+ /*The column-count class displays the main content paragraph in just one column on Tablets and Mobiles*/
     .column-count {
         columns: 1;
     }
