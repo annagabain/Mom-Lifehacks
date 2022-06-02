@@ -21,6 +21,7 @@ Below you can see the image of the website on different devices, as well as furt
     - [Thank you for Contacting Page](#thank-you-for-contacting-page)
   - [Footer](#footer)
   - [404 Error Page](#404-error-page)
+  - [Potential Features left to Implement](#potential-features-left-to-implement)
 
 
 - [Development Stages](#development-stages)
@@ -39,7 +40,7 @@ Below you can see the image of the website on different devices, as well as furt
 
   - [Testing](#testing)
     - [Validators](#validators)
-    - [Implementation](#implementation)
+    - [Remaining Bugs](#remaining-bugs)
 
   - [Deployment to GitHub](#deployment-to-github)
     - [GitHub Pages](#github-page)
@@ -118,6 +119,10 @@ This page opens in case there are broken links and the user requeted a page that
 
 <img width="719" alt="image" src="assets/md-images/404.jpg">
 
+### Potential Features left to Implement
+
+Some videos demonstrating several lifehacks can be potentially valuable added feature.
+
 
 :arrow_up: [Back to Contents](#contents) 
 
@@ -159,15 +164,15 @@ The following to-do list made it possible to consequently plan the project and e
     - [ ] describe the sections and attach images to each
     - [x] testing and deployment details
     - [x] credits to content and media 
-  - [ ]  finishing touches
+  - [x]  finishing touches
 
-  - [ ] test
+  - [x] test
     - [x] check for errors
     - [x] validate html
     - [x] validate css
 
 - [x] go through the requirements checklist
-- [ ] submit the project
+- [x] submit the project
   
 ### Layout Creation
 
@@ -185,9 +190,9 @@ The following to-do list made it possible to consequently plan the project and e
 
 :arrow_up: [Back to Contents](#contents) 
 
-## User Experience and User Interface Design UX and UI
+### User Experience and User Interface Design UX and UI
 
-### User Analysis With 'Persona' Method
+#### User Analysis With 'Persona' Method
 
 In order to identify and get to know the website user, Persona method was chosen. 
 This method helps 'bringing to life' a real individual with personality traits, favourite choices and preferences. Jane Smith is a working mother that loves biological products and natural tones. She will enjoy the website design and hopefully find the ideas on the website useful to impelment in life.
@@ -197,11 +202,9 @@ The persona summary is created with a tool called Xtensio that helps to conduct 
 
 ### Design Scope
 
-- [x] design wireframes
-  - [x] choose basic colors
+Wireframes were created to have a rough scetch what the future website structure would look like. Basic colors choice was conducted by extracting colors from the images and making sure they complement each other, as well as provide necessary contrast for the content readability.
 
-- [x] design the mood board with colors and themes
-  - [x] apply the colors to the css
+Mood board with colors and themes gave a general idea what the website would look like in terms of the font choice and overall visual impression. The these colours were applied to the style.css and responsive.css stylesheets to unify the project.
 
 ### Mood Board:
 
@@ -222,20 +225,18 @@ The persona summary is created with a tool called Xtensio that helps to conduct 
 
 ### Accessibility
 
-Semantic Html
-Text Content
-  headings, paragraphs, lists...
-Page Layouts
- title, url, headings, text (keywords), link text, image alt, meta description, 
-UI Controls
-  buttons, links, forms, tab key?
-Form Labels
-  label, id, for, fieldset
-ARIA attributes !!!
+There is no limit to applied accessibility, however the following aspects were paid attention to:
+ - Semantic Html - The tags of the html document were named semantically to make sense. Header, Navigation, Section, Paragraph, Footer.
+ - Text Content - headings, paragraphs, lists in hierarchic order to be analysed by screen readers.
+ - Page Layouts - title, url, headings, using site keywords, such as Lifehack, Mom in the paragraph texts, image alt attributes for visually impaired, site meta description in the head section.
+ - Form Labels - label, id, for.
+ - ARIA attributes- aria-labels to anchor tags for navigation.
 
 Aria
+
 <img width="719" alt="image" src="assets/md-images/aria-labels1.jpg">
-<img width="719" alt="image" src="assets/md-images/aria-labels2.jpg">
+
+
 <img width="719" alt="image" src="assets/md-images/aria-labels3.jpg">
 
 
@@ -247,13 +248,26 @@ Contrast
 
 <img width="350" alt="image" src="assets/md-images/contrast2.jpg">
 
+<img width="350" alt="image" src="assets/md-images/contrast4.jpg">
 
 ### Responsivity
 
-Media queries
+Website responsivity to different device sizes is achieved with CSS Media queries. The following breaking points were taken: 
 
-<img width="719" alt="image" src="assets/md-images/media-queries.jpg">
+  - Large screens and high resolution desktops (min-width: 1281px)
 
+  - Laptops and Desktops (min-width: 1025px) and (max-width: 1280px)
+
+  - Tablets and Ipads in portrait orientation (min-width: 768px) and (max-width: 1024px) 
+
+  - Tablets and Ipads in landscape orientation (min-width: 768px) and (max-width: 1024px) 
+
+  - Low Resolution Tablets and Mobiles in landscape orientation (min-width: 481px) and (max-width: 767px)
+
+  - Most of the Smartphones Mobiles (min-width: 320px) and (max-width: 480px)
+
+
+<img width="719" alt="image" src="assets/md-images/responsive-css-dev.jpg">
 
 
 ### Testing
@@ -272,6 +286,7 @@ A series of testing actions have been performed during and after coding. Main me
 
 <img width="719" alt="image" src="assets/md-images/lighthouse-test-mobile-1.jpg">
 
+
 #### Validators 
 
   Validate HTML in https://validator.w3.org/
@@ -284,9 +299,10 @@ A series of testing actions have been performed during and after coding. Main me
 
 <img width="719" alt="image" src="assets/md-images/html-validator-NO-errors7.bmp.jpg">
 
-  Validate CSS in https://jigsaw.w3.org/css-validator/
 
-  The files style.css and responsive.css were tested through the validator.
+The files style.css and responsive.css were tested through the validator:  https://jigsaw.w3.org/css-validator/
+
+  
 
 <img width="719" alt="image" src="assets/md-images/css-validator-errors1.jpg">
 
@@ -312,8 +328,6 @@ After fixing the errors, a validator badge was awarded.
 
 Most of the errors and bugs have been adressed and fixed. However, depending on the time of the day, Google Developer Tool Lighthouse perfromance showed different results varying from 73% to 90%. 
 The lowest result of about 73% indicated slow performance. especially for mobile devices. This bug mostly occurs due to the images being larger than recommended for a quick web performance. This bug is treated as an 'oportunity' for future image resizing and better optimisation.
-
-<img width="719" alt="Lighthouse test number 3 for mobile performance" src="assets/md-images/lighthouse-test-mobile-3.jpg">
 
 
 <img width="719" alt="Unfixed bugs" src="assets/md-images/unfixed-bugs.jpg">
@@ -392,3 +406,10 @@ Mood board creation on  https://www.canva.com/ platform on 17.05.202
 Color palette selection with https://color.adobe.com/create/color-wheel on 17.05.2022
 
 'Persona'bord creation with https://xtensio.com last edit on 02-06.2022
+
+
+### Acknoledgements:
+
+Adegbenga Adeye - Code Institute mentor, that helped with conceptual directing, sources and how-to-s.
+
+Jakob Lövhall - author's partner providing babysitting support during longer working hours, as well as giving constructive feedback about the project.
