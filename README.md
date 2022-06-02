@@ -176,16 +176,7 @@ The following to-do list made it possible to consequently plan the project and e
   
 ### Layout Creation
 
-- [x] create a repository on GitHub
-  - [x] setup
-  - [x] basic structure
-  - [x] initial commit
- 
-- [x] create the site skeleton
-  - [x] basic layout
-  - [x] text content
-  - [x] images
-  - [x] css structure rules
+The so-called site skeleton was created by adding basic html and css, as well as assets folders to the repository. A basic layout of the head-body-footer and a connected file with css structure rules started off the project. 
 
 
 :arrow_up: [Back to Contents](#contents) 
