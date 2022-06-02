@@ -28,6 +28,7 @@ Below you can see the image of the website on different devices, as well as furt
   - [Layout Creation](#layout-creation)
 
   - [User Experience and User Interface Design UX and UI](#User-Experience-and-User-Interface-Design-UX-and-UI)
+    - [User Analysis With 'Persona' Method]()
     - [Design Scope](#design-scope)
     - [Mood Board](#mood-board)
     - [Wireframes](#wireframes)
@@ -180,6 +181,8 @@ The following to-do list made it possible to consequently plan the project and e
 :arrow_up: [Back to Contents](#contents) 
 
 ## User Experience and User Interface Design UX and UI
+
+### User Analysis With 'Persona' Method
 
 ### Design Scope
 
@@ -364,3 +367,5 @@ https://www.pexels.com/@karolina-grabowska/ viewed on 14.05.2022
 Mood board creation on  https://www.canva.com/ platform on 17.05.202
 
 Color palette selection with https://color.adobe.com/create/color-wheel on 17.05.2022
+
+'Persona'bord creation with https://xtensio.com last edit on 02-06.2022
