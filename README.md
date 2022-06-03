@@ -225,10 +225,10 @@ The wireframes have been slightly alterated during the actual project creation. 
 
 ### Accessibility
 
-There is no limit to applied accessibility, however the following aspects were paid attention to:
- - Semantic Html - The tags of the html document were named semantically to make sense. Header, Navigation, Section, Paragraph, Footer.
+There is no limit to applied accessibility, however the following aspects were adressed:
+ - Semantic Html - The tags of the html document were named semantically to make sense. Header, Navigation, Section, Paragraph, Footer, to name a few.
  - Text Content - headings, paragraphs, lists in hierarchic order to be analysed by screen readers.
- - Page Layouts - title, url, headings, using site keywords, such as Lifehack, Mom in the paragraph texts, image alt attributes for visually impaired, site meta description in the head section.
+ - Page Layouts - title, url, headings, using site keywords, such as Lifehack, Mom in the paragraph texts, image Alt attributes for visually impaired, site Meta description in the head section.
  - Form Labels - label, id, for.
  - ARIA attributes- aria-labels to anchor tags for navigation.
 
@@ -239,18 +239,13 @@ Aria
 <img width="719" alt="Aria labels in code editor" src="assets/md-images/aria-labels1.jpg">
 
 
-<img width="719" alt="More Aria labels in code editor" src="assets/md-images/aria-labels3.jpg">
-
-
 Alt
 
 <img width="719" alt="Alt labels in code editor" src="assets/md-images/alt.jpg">
 
 Contrast 
 
-<img width="350" alt="Contrast check screenshot" src="assets/md-images/contrast2.jpg">
-
-<img width="350" alt="Contrast check screenshot number 2" src="assets/md-images/contrast4.jpg">
+<img width="350" alt="Contrast check screenshot" src="assets/md-images/contrast2.jpg"> <img width="350" alt="Contrast check screenshot number 2" src="assets/md-images/contrast4.jpg">
 
 :arrow_up: [Back to Contents](#contents)
 
@@ -279,9 +274,9 @@ Website responsivity to different device sizes is achieved with CSS Media querie
 A series of testing actions have been performed during and after coding. 
 Main methods: 
 - manual testing on different devices (Large monitor, Laptop, iPad, iPhone) 
-- testing through VS code live view in Chrome Developer Tools, in particular through Media Queries and Lighthouse tools.
-- contrast check with https://webaim.org/resources/contrastchecker/
-- accessibility check with WAVE Chrome extension
+- testing through VS code live view in Chrome Developer Tools, in particular, through Media Queries and Lighthouse tools.
+- contrast check with WebAIM contrastchecker tool
+- accessibility check with WAVE Chrome extension.
 
 #### Chrome Developer Tools
 
@@ -289,36 +284,30 @@ Main methods:
 
 <img width="719" alt="Chrome tools screenshot" src="assets/md-images/media-queries.jpg">
 
- Lighthouse
+ Lighthouse Performance check
 
-<img width="719" alt="lighthouse test 1" src="assets/md-images/lighthouse-test-desktop-1.jpg">
+<img width="719" alt="lighthouse test 1" src="assets/md-images/lighthouse-test-desktop-4.jpg">
 
-<img width="719" alt="lighthouse test 2" src="assets/md-images/lighthouse-test-mobile-1.jpg">
-
-WAVE extension in Chrome browser
+WAVE extension for Accessibility testing in Chrome browser
 
 <img width="719" alt="accessibility test with WAVE" src="assets/md-images/accessibility-test.jpg">
 
 
 #### Validators 
 
-  Validate HTML in https://validator.w3.org/
+The files index.html, form-response.html and 404.html were tested through the W3 validator. 
 
-  The files index.html, form-response.html and 404.html were tested through the validator.
+<img width="719" alt="Html Validator screenshot" src="assets/md-images/html-validator-errors4.bmp.jpg">
 
-<img width="719" alt="image" src="assets/md-images/html-validator-errors.bmp">
-
-<img width="719" alt="image" src="assets/md-images/html-validator-errors4.bmp.jpg">
-
-<img width="719" alt="image" src="assets/md-images/html-validator-NO-errors7.bmp.jpg">
+<img width="719" alt="Html Validator no errors screenshot" src="assets/md-images/html-validator-NO-errors7.bmp.jpg">
 
 
-The files style.css and responsive.css were tested through the validator:  https://jigsaw.w3.org/css-validator/
+The files style.css and responsive.css were tested through the Jigsaw validator.
 
 
 <img width="719" alt="image" src="assets/md-images/css-validator-errors2.jpg">
 
-All the errors have been addressed and fixed. After fixing the errors, a validator badge was awarded.
+All the bugs and errors have been addressed and fixed. After fixing the errors, a CSS validator badge was awarded.
 
 <p>
         <img style="border:0;width:88px;height:31px"
@@ -363,7 +352,7 @@ How-to references: https://www.w3schools.com/
 
 Lifehack icons: https://fontawesome.com/
 
-Practical advice about UX: Book - Praxisbuch Usability und UX
+Practical advice about UX: Book - Praxisbuch Usability und UX -
 Was alle wissen sollten, die Websites und Apps entwickeln (in German)
 by Jens Jacobsen, Lorena Meyer, Rheinwerk Computing, edition 2017
 https://www.rheinwerk-verlag.de/praxisbuch-usability-und-ux/
@@ -417,6 +406,11 @@ Colour palette selection with https://colour.adobe.com/create/color-wheel on 17.
 'Persona'bord creation with https://xtensio.com last edit on 02.06.2022
 
 Contrast check with https://webaim.org/resources/contrastchecker/
+
+HTML Validator: https://validator.w3.org/
+
+CSS Validator: https://jigsaw.w3.org/css-validator/
+
 
 Chrome Developer Tools 
 
