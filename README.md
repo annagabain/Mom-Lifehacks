@@ -63,14 +63,15 @@ Navigation bar has fixed positioning for mobile devices and staying on top of th
 <img width="719" alt="Navigation bar screenshot" src="assets/md-images/navigation-bar-active.bmp">
 
 
-Jump to a Lifehack section helps the user to quickly jump into reading the lifehack they are mostly interested in without scrolling through all of them. A valuable feautre for working parents, who have limited time to read this webpage. 
-Jump to a Lifehack section adapts the number of colums to adjust to the device it is being viewed on.
+Jump to a Lifehack section helps the user to quickly jump into reading the lifehack they are mostly interested in without scrolling through all of them. A valuable feature for working parents, who have limited time to read this webpage. 
 
 <img width="719" alt="Jump to bar screenshot" src="assets/md-images/jump-to-bar.jpg">
 
+Jump to a Lifehack section adapts the number of colums to adjust to the device it is being viewed on.
+
 <img width="350" alt="Jump to bar screenshot number 2" src="assets/md-images/jump-to-bar-active.jpg">
 
-Top button that is fixed to the bottom no matter where you scrolled
+Top button that is fixed to the bottom-right of the page no matter where scrolled. This navigation item will lead the user back to the start anytime during the reading process.
 
 <img width="350" alt="Top navigation button screenshot" src="assets/md-images/top-fixed.jpg">
 
@@ -79,7 +80,8 @@ Top button that is fixed to the bottom no matter where you scrolled
 
 ### About Work-Life
 
-An introduction for the content telling about importantce of work-life balance for mothers. This is the first out of three sections of the website.s
+An introduction to the main content telling about importantce of work-life balance for mothers. This is the first out of three sections of the website (About, Lifehacks, Contact). 
+The user expects to find out what the Lifehacks are about. 
 
 <img width="719" alt="Screenshot of the landing page title" src="assets/md-images/About-work-life.jpg">
 
@@ -97,25 +99,27 @@ The content changes the number of columns to adapt bing convenient to read on mo
 
 
 ### Contact
-Contact form with a submit button. This form is providing the user a possibility to contact with the website author by giving a feedback about the lifehacks. All the fields are mandatory to be able to fully submit the form.
+Contact form with a submit button. This form is providing the user a possibility to contact the website author by giving a feedback about the lifehacks. All the fields, except the Last Name are mandatory to be able to fully submit the form.
 
 <img width="719" alt="Screenshot of a contact form" src="assets/md-images/contact-form-required1.jpg">
 
+:arrow_up: [Back to Contents](#contents)
+
 #### Thank you for Contacting Page
 
-After successfully submitting the feedback, a new 'thank you' page opens to reassure the user that the message has been recieved and will be responded to soon. The user has a possibility to continue surfing the website using the navigation menu buttons that lead back to the main page sections.
+After successfully submitting the feedback, a new 'Thank you for Contacting' page opens to reassure the user that the message has been recieved and will be responded to soon. The user has a possibility to continue surfing the website using the navigation menu buttons that lead back to the main page sections.
 
 <img width="719" alt="The thank you page screenshot" src="assets/md-images/thank-you-for-contacting.jpg">
 
 ### Footer
 
-Social media icons with links to correspoding social media sites. As this project is currently for the educational purposes and there are not 'Mom Lifehacks' community pages, the buttons simply lead to the social media homepages instead.
+Social media icons with links to correspoding social media sites. As this project is currently for the educational purposes and there are not 'Mom Lifehacks' community pages, the buttons simply lead to the corresponding social media homepages instead.
 
 <img width="350" alt="Footer screenshot" src="assets/md-images/footer.jpg">
 
 ### 404 Error Page
 
-This page opens in case there are broken links and the user requeted a page that does not exist. As with the 'thank you' page, the user has a possibility to further navigate to the main website.
+This page opens in case there are broken links or the user requested a page that does not exist. As with the 'thank you' page, the user has a possibility to further navigate to the main website.
 
 <img width="719" alt="Error page screenshot" src="assets/md-images/404.jpg">
 
@@ -148,9 +152,9 @@ The following to-do list made it possible to consequently plan the project and e
 
 - [x] design
   - [x] design wireframes
-  - [x] choose basic colors
-  - [x] design the mood board with colors and themes
-  - [x] apply the colors to the css
+  - [x] choose basic colours
+  - [x] design the mood board with colours and themes
+  - [x] apply the colours to the css
 
 - [x] create a repository on GitHub
   - [x] setup
@@ -161,7 +165,7 @@ The following to-do list made it possible to consequently plan the project and e
   - [x]  edit the Readme file
     - [x] introduction
     - [x] the title image (4 responsive formats)
-    - [ ] describe the sections and attach images to each
+    - [x] describe the sections and attach images to each
     - [x] testing and deployment details
     - [x] credits to content and media 
   - [x]  finishing touches
@@ -170,6 +174,9 @@ The following to-do list made it possible to consequently plan the project and e
     - [x] check for errors
     - [x] validate html
     - [x] validate css
+    - [x] manual testing on devices
+    - [x] acessibility 
+    - [x] performance
 
 - [x] go through the requirements checklist
 - [x] submit the project
@@ -187,21 +194,23 @@ The so-called site skeleton was created by adding basic html and css, as well as
 
 In order to identify and get to know the website user, Persona method was chosen. 
 This method helps 'bringing to life' a real individual with personality traits, favourite choices and preferences. Jane Smith is a working mother that loves biological products and natural tones. She will enjoy the website design and hopefully find the ideas on the website useful to impelment in life.
-The persona summary is created with a tool called Xtensio that helps to conduct vidual UX analysis.
+The persona summary is created with a tool called Xtensio that helps to conduct a virtual UX analysis. Additionally, a customer journey tracking was conducted to follow Jane's navigation and make it to her most convenience.
 
 <img width="719" alt="Jane Smith persona" src="assets/md-images/MomLifehacks-persona-method.png">
 
 ### Design Scope
 
-Wireframes were created to have a rough scetch what the future website structure would look like. Basic colors choice was conducted by extracting colors from the images and making sure they complement each other, as well as provide necessary contrast for the content readability.
+Wireframes were created to present a rough scetch what the future website structure would look like on different devices. Basic colours choice was conducted by extracting colours from the images and making sure they complement each other, as well as provide necessary contrast for the content readability.
 
-Mood board with colors and themes gave a general idea what the website would look like in terms of the font choice and overall visual impression. The these colours were applied to the style.css and responsive.css stylesheets to unify the project.
+Mood board with colours and themes gave a general idea what the website would look like in terms of the font choice and overall visual impression. Then these colours were applied to the style.css and responsive.css stylesheets to unify the project design.
 
 ### Mood Board:
 
 <img width="719" alt="Moodboard screenshot" src="assets/wireframes/mom_lifehacks_mood_board3.png">
 
 ### Wireframes:
+
+The wireframes have been slightly alterated during the actual project creation. It turned out more visually appealing to add rounded images above each lifehack section. On the image below the general device responsiveness planning is evident. The column, as well as the navigation layouts have been scetched at this stage.
 
 <img width="719" alt="Wireframes image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
 
@@ -242,6 +251,8 @@ Contrast
 <img width="350" alt="Contrast check screenshot" src="assets/md-images/contrast2.jpg">
 
 <img width="350" alt="Contrast check screenshot number 2" src="assets/md-images/contrast4.jpg">
+
+:arrow_up: [Back to Contents](#contents)
 
 ### Responsivity
 
@@ -330,7 +341,6 @@ The lowest percentage of about 73 indicated slow performance. especially for mob
 <img width="719" alt="Unfixed bugs" src="assets/md-images/unfixed-bugs.jpg">
 
 
-
 :arrow_up: [Back to Contents](#contents) 
 
 ### Deployment to GitHub
@@ -400,13 +410,15 @@ https://www.pexels.com/@karolina-grabowska/ viewed on 14.05.2022
 
 Mood board creation on  https://www.canva.com/ platform on 17.05.2022
 
-Color palette selection with https://color.adobe.com/create/color-wheel on 17.05.2022
+Wireframes creation software: https://balsamiq.com/learn/ on 16.05.2022
+
+Colour palette selection with https://colour.adobe.com/create/color-wheel on 17.05.2022
 
 'Persona'bord creation with https://xtensio.com last edit on 02.06.2022
 
 Contrast check with https://webaim.org/resources/contrastchecker/
 
-Chrome Developer Tools
+Chrome Developer Tools 
 
 
 ### Acknowledgement:
@@ -414,3 +426,5 @@ Chrome Developer Tools
 Adegbenga Adeye - Code Institute mentor, that helped with conceptual directing, sources and how-to-s.
 
 Jakob Lövhall - author's partner providing babysitting support during longer working hours, as well as giving constructive feedback about the project.
+
+:arrow_up: [Back to Contents](#contents)
