@@ -1,6 +1,6 @@
 # Mom Lifehacks
 
-Mom Lifehacks is a website presenting 10 work-life balance ideas to working mothers. It aims to make their lives less stressfull and therefore happier. The lifehacks can be useful for home stay mothers, fathers and other child caretakers as well.
+Mom Lifehacks is a website presenting 10 work-life balance ideas to working mothers. It aims to make their lives less stressful and therefore happier. The lifehacks can be useful for home stay mothers, fathers and other child caretakers as well.
 
 This is the first Portfolio Project in frames of Code Institute Full Stack Web Developer Course Assessment. It is for educational purposes and the main programming languages are HTML and CSS. Further tools and languages will be implemented for the consequent projects. 
 
@@ -9,7 +9,7 @@ Below you can see the image of the website on different devices, as well as furt
 ## [View the Live Website](https://annagabain.github.io/Mom-Lifehacks/index.html)
 
 
-<img width="100%" alt="image" src="assets/md-images/I-am-responsive-mom-lifehacks-media-sizes.jpg">
+<img width="100%" alt="I am responsive mom lifehacks media sizes" src="assets/md-images/I-am-responsive-mom-lifehacks-media-sizes.jpg">
 
 ## Contents:
 
@@ -60,19 +60,19 @@ Navigation bar on the top right of the website allows the user to find all the m
 
 Navigation bar has fixed positioning for mobile devices and staying on top of the page along with scrolling.
 
-<img width="719" alt="image" src="assets/md-images/navigation-bar-active.bmp">
+<img width="719" alt="Navigation bar screenshot" src="assets/md-images/navigation-bar-active.bmp">
 
 
 Jump to a Lifehack section helps the user to quickly jump into reading the lifehack they are mostly interested in without scrolling through all of them. A valuable feautre for working parents, who have limited time to read this webpage. 
 Jump to a Lifehack section adapts the number of colums to adjust to the device it is being viewed on.
 
-<img width="719" alt="image" src="assets/md-images/jump-to-bar.jpg">
+<img width="719" alt="Jump to bar screenshot" src="assets/md-images/jump-to-bar.jpg">
 
-<img width="350" alt="image" src="assets/md-images/jump-to-bar-active.jpg">
+<img width="350" alt="Jump to bar screenshot number 2" src="assets/md-images/jump-to-bar-active.jpg">
 
 Top button that is fixed to the bottom no matter where you scrolled
 
-<img width="350" alt="image" src="assets/md-images/top-fixed.jpg">
+<img width="350" alt="Top navigation button screenshot" src="assets/md-images/top-fixed.jpg">
 
 :arrow_up: [Back to Contents](#contents) 
 
@@ -81,43 +81,43 @@ Top button that is fixed to the bottom no matter where you scrolled
 
 An introduction for the content telling about importantce of work-life balance for mothers. This is the first out of three sections of the website.s
 
-<img width="719" alt="image" src="assets/md-images/About-work-life.jpg">
+<img width="719" alt="Screenshot of the landing page title" src="assets/md-images/About-work-life.jpg">
 
 ### 10 Lifehacks
 
 Medalion inspirational images are placed above every lifehack.
 The content changes the number of columns to adapt bing convenient to read on mobiles, tablets and desktops.
 
-<img width="719" alt="image" src="assets/md-images/ten-lifehacks-three-colums.jpg">
+<img width="719" alt="Screenshot of three column layout" src="assets/md-images/ten-lifehacks-three-colums.jpg">
 
-<img width="719" alt="image" src="assets/md-images/ten-lifehacks-two-colums.jpg">
+<img width="719" alt="Screenshot of two column layout" src="assets/md-images/ten-lifehacks-two-colums.jpg">
 
-<img width="719" alt="image" src="assets/md-images/ten-lifehacks-one-colum.jpg">
+<img width="719" alt="Screenshot of one column layout" src="assets/md-images/ten-lifehacks-one-colum.jpg">
 
 
 
 ### Contact
 Contact form with a submit button. This form is providing the user a possibility to contact with the website author by giving a feedback about the lifehacks. All the fields are mandatory to be able to fully submit the form.
 
-<img width="719" alt="image" src="assets/md-images/contact-form-required1.jpg">
+<img width="719" alt="Screenshot of a contact form" src="assets/md-images/contact-form-required1.jpg">
 
 #### Thank you for Contacting Page
 
 After successfully submitting the feedback, a new 'thank you' page opens to reassure the user that the message has been recieved and will be responded to soon. The user has a possibility to continue surfing the website using the navigation menu buttons that lead back to the main page sections.
 
-<img width="719" alt="image" src="assets/md-images/thank-you-for-contacting.jpg">
+<img width="719" alt="The thank you page screenshot" src="assets/md-images/thank-you-for-contacting.jpg">
 
 ### Footer
 
 Social media icons with links to correspoding social media sites. As this project is currently for the educational purposes and there are not 'Mom Lifehacks' community pages, the buttons simply lead to the social media homepages instead.
 
-<img width="350" alt="image" src="assets/md-images/footer.jpg">
+<img width="350" alt="Footer screenshot" src="assets/md-images/footer.jpg">
 
 ### 404 Error Page
 
 This page opens in case there are broken links and the user requeted a page that does not exist. As with the 'thank you' page, the user has a possibility to further navigate to the main website.
 
-<img width="719" alt="image" src="assets/md-images/404.jpg">
+<img width="719" alt="Error page screenshot" src="assets/md-images/404.jpg">
 
 ### Potential Features left to Implement
 
@@ -199,16 +199,16 @@ Mood board with colors and themes gave a general idea what the website would loo
 
 ### Mood Board:
 
-<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_mood_board3.png">
+<img width="719" alt="Moodboard screenshot" src="assets/wireframes/mom_lifehacks_mood_board3.png">
 
 ### Wireframes:
 
-<img width="719" alt="image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
+<img width="719" alt="Wireframes image" src="https://github.com/annagabain/Project_1/blob/main/assets/wireframes/Mom%20Lifehacks%20Wireframes%20All%20formats.png?raw=true">
 
 
 ### Colours:
 
-<img width="719" alt="image" src="assets/wireframes/mom_lifehacks_color_pallette3.png">
+<img width="719" alt="Colour palette screenshot" src="assets/wireframes/mom_lifehacks_color_pallette3.png">
 
 :arrow_up: [Back to Contents](#contents) 
 
@@ -227,21 +227,21 @@ There is no limit to applied accessibility, however the following aspects were p
 
 Aria
 
-<img width="719" alt="image" src="assets/md-images/aria-labels1.jpg">
+<img width="719" alt="Aria labels in code editor" src="assets/md-images/aria-labels1.jpg">
 
 
-<img width="719" alt="image" src="assets/md-images/aria-labels3.jpg">
+<img width="719" alt="More Aria labels in code editor" src="assets/md-images/aria-labels3.jpg">
 
 
 Alt
 
-<img width="719" alt="image" src="assets/md-images/alt.jpg">
+<img width="719" alt="Alt labels in code editor" src="assets/md-images/alt.jpg">
 
 Contrast 
 
-<img width="350" alt="image" src="assets/md-images/contrast2.jpg">
+<img width="350" alt="Contrast check screenshot" src="assets/md-images/contrast2.jpg">
 
-<img width="350" alt="image" src="assets/md-images/contrast4.jpg">
+<img width="350" alt="Contrast check screenshot number 2" src="assets/md-images/contrast4.jpg">
 
 ### Responsivity
 
@@ -323,8 +323,8 @@ All the errors have been addressed and fixed. After fixing the errors, a validat
 
 #### Remaining Bugs
 
-Most of the errors and bugs have been adressed and fixed. However, depending on the time of the day, Google Developer Tool Lighthouse perfromance showed different results varying from 73% to 90%. 
-The lowest result of about 73% indicated slow performance. especially for mobile devices. This bug mostly occurs due to the images being larger than recommended for a quick web performance. This bug is treated as an 'oportunity' for future image resizing and better optimisation.
+Most of the errors and bugs have been adressed and fixed. However, depending on the time of the day, Google Developer Tool Lighthouse perfromance showed Performance results varying from 73% to 90%. 
+The lowest percentage of about 73 indicated slow performance. especially for mobile devices. This result mostly occurs due to the images being larger than recommended for a quick web performance. This will be taken in consideration for future image resizing and better optimisation.
 
 
 <img width="719" alt="Unfixed bugs" src="assets/md-images/unfixed-bugs.jpg">
@@ -337,7 +337,7 @@ The lowest result of about 73% indicated slow performance. especially for mobile
 
 Deployment to GitHub was done at the very beginning of the project for convenience of the current version control. After creating a new repository based on Code Institute's project template, in settings, the 'pages' option was chosen. After choosing the branch and confirming, the page was published on GitHUb server available for live public view. Potential placement on an own server is possible in the future.
 
-<img width="719" alt="image" src="assets/md-images/github-pages.jpg">
+<img width="719" alt="GitHub pages screenshot" src="assets/md-images/github-pages.jpg">
 
 #### GitHub page:
 
@@ -409,7 +409,7 @@ Contrast check with https://webaim.org/resources/contrastchecker/
 Chrome Developer Tools
 
 
-### Acknoledgements:
+### Acknowledgement:
 
 Adegbenga Adeye - Code Institute mentor, that helped with conceptual directing, sources and how-to-s.
 
