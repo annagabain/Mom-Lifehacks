@@ -223,6 +223,8 @@ There is no limit to applied accessibility, however the following aspects were p
  - Form Labels - label, id, for.
  - ARIA attributes- aria-labels to anchor tags for navigation.
 
+ <img width="719" alt="accessibility test" src="assets/md-images/accessibility-test-no-errors.jpg">
+
 Aria
 
 <img width="719" alt="image" src="assets/md-images/aria-labels1.jpg">
@@ -263,19 +265,28 @@ Website responsivity to different device sizes is achieved with CSS Media querie
 
 ### Testing
 
-A series of testing actions have been performed during and after coding. Main methods: manual testing through VS code live view in Chrome Developer Tools, in particular through Media Queries and Lighthouse tools.
+A series of testing actions have been performed during and after coding. 
+Main methods: 
+- manual testing on different devices (Large monitor, Laptop, iPad, iPhone) 
+- testing through VS code live view in Chrome Developer Tools, in particular through Media Queries and Lighthouse tools.
+- contrast check with https://webaim.org/resources/contrastchecker/
+- accessibility check with WAVE Chrome extension
 
 #### Chrome Developer Tools
 
  Chrome Developer Tools and Media Queries
 
-<img width="719" alt="image" src="assets/md-images/media-queries.jpg">
+<img width="719" alt="Chrome tools screenshot" src="assets/md-images/media-queries.jpg">
 
  Lighthouse
 
-<img width="719" alt="image" src="assets/md-images/lighthouse-test-desktop-1.jpg">
+<img width="719" alt="lighthouse test 1" src="assets/md-images/lighthouse-test-desktop-1.jpg">
 
-<img width="719" alt="image" src="assets/md-images/lighthouse-test-mobile-1.jpg">
+<img width="719" alt="lighthouse test 2" src="assets/md-images/lighthouse-test-mobile-1.jpg">
+
+WAVE extension in Chrome browser
+
+<img width="719" alt="accessibility test with WAVE" src="assets/md-images/accessibility-test.jpg">
 
 
 #### Validators 
@@ -392,6 +403,10 @@ Mood board creation on  https://www.canva.com/ platform on 17.05.2022
 Color palette selection with https://color.adobe.com/create/color-wheel on 17.05.2022
 
 'Persona'bord creation with https://xtensio.com last edit on 02.06.2022
+
+Contrast check with https://webaim.org/resources/contrastchecker/
+
+Chrome Developer Tools
 
 
 ### Acknoledgements:
