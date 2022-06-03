@@ -295,7 +295,7 @@ WAVE extension for Accessibility testing in Chrome browser
 
 #### Validators 
 
-The files index.html, form-response.html and 404.html were tested through the W3 validator. 
+The files index.html, form-response.html and 404.html were tested through the W3C validator. 
 
 <img width="719" alt="Html Validator screenshot" src="assets/md-images/html-validator-errors4.bmp.jpg">
 
