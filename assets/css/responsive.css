@@ -1,4 +1,4 @@
-/* All sizes cheatsheet:
+/* All Device sizes used in this Page:
     (min-width: 1281px)
     (min-width: 1025px) and (max-width: 1280px)
     (min-width: 768px) and (max-width: 1024px) portrait
@@ -7,31 +7,32 @@
     (min-width: 320px) and (max-width: 480px) mobile portrait */
 
 
-
 /* 
   ##Device = Desktops
   ##Screen = 1281px to higher resolution desktops
 */
-
 @media (min-width: 1281px) {
+
+    /* Round images in the beginning of each lifehack */
     .medalions {
         display: flex;
         justify-content: center;
     }
 }
 
-
 /* 
     ##Device = Laptops, Desktops
     ##Screen = B/w 1025px to 1280px
   */
-
 @media (min-width: 1025px) and (max-width: 1280px) {
+
+    /* Navigaiton styling starts here */
     header {
         padding: 0px 0px 40px 0px;
         font-size: 1.5rem;
     }
 
+    /* Round images in the beginning of each lifehack */
     .medalions {
         display: flex;
         justify-content: center;
@@ -43,24 +44,23 @@
     }
 }
 
-
 /* 
     ##Device = Tablets, Ipads (portrait)
     ##Screen = B/w 768px to 1024px
   */
-
 @media (min-width: 768px) and (max-width: 1024px) {
 
+    /* Navigaiton styling starts here */
     header {
         padding: 0px 20px 40px 20px;
         font-size: 1.2rem;
     }
 
     #banner-container {
-        background-color: #455359;
         height: 300px;
     }
 
+    /* This banner is recognizable as the project's title image, a mother holding an toddler and pointing to the lifehacks */
     #banner1 {
         height: 350px;
     }
@@ -71,10 +71,12 @@
         padding: 20px 30px 50px 50px;
     }
 
+    /* Lifehacks navigation start here */
     #jump-to-lifehack {
         font-size: 0.9rem;
     }
- /*The column-count class displays the main content paragraph in two column on Tablets and Ipads*/
+
+    /*The column-count class displays the main content paragraph in two column on Tablets and Ipads*/
     .column-count {
         columns: 2;
     }
@@ -87,6 +89,7 @@
         text-align: left;
     }
 
+    /* Round images in the beginning of each lifehack */
     .medalions {
         display: flex;
         justify-content: center;
@@ -96,27 +99,26 @@
         width: 200px;
         height: 200px;
     }
-
 }
-
 
 /* 
     ##Device = Tablets, Ipads (landscape)
     ##Screen = B/w 768px to 1024px
   */
-
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
 
+    /* Navigaiton styling starts here */
     header {
         padding: 0px 0px 30px 0px;
         font-size: 1.2rem;
     }
+
     /*The column-count class is responsible for 3 column main content paragraph*/
     .column-count {
         columns: 3;
     }
 
-
+    /* Round images in the beginning of each lifehack */
     .medalions {
         display: flex;
         justify-content: center;
@@ -126,17 +128,15 @@
         width: 180px;
         height: 180px;
     }
-
 }
-
 
 /* 
     ##Device = Low Resolution Tablets, Mobiles (Landscape)
     ##Screen = B/w 481px to 767px
   */
-
 @media (min-width: 481px) and (max-width: 767px) {
 
+    /* Navigaiton styling starts here */
     header {
         padding: 0px 0px 30px 0px;
         font-size: 1rem;
@@ -146,6 +146,7 @@
         height: 200px;
     }
 
+    /* This banner is recognizable as the project's title image, a mother holding an toddler and pointing to the lifehacks */
     #banner1 {
         height: 200px;
     }
@@ -154,13 +155,13 @@
         font-size: 1.5rem;
         padding: 5px 10px 0px 0px;
         text-align: right;
-
     }
 
     #title1 h2 {
         font-size: 0.6rem;
     }
 
+    /* h3 is for each lifehack's heading */
     h3 {
         text-align: center;
         font-size: medium;
@@ -170,7 +171,6 @@
         font-size: 1.2rem;
         line-height: 110%;
     }
-
 
     p {
         text-align: left;
@@ -193,34 +193,37 @@
         padding: 5px 5px;
     }
 
+    /* Lifehacks navigation start here */
     #jump-to-lifehack {
         font-size: 0.8rem;
         text-align: center;
     }
+
     /*The column-count class displays the main content paragraph in just one column on Tablets and Mobiles*/
     .column-count {
         columns: 1;
     }
 
+    /* Round images in the beginning of each lifehack */
     .medalions img {
         width: 160px;
         height: 160px;
     }
 
+    /* The content of the contact section */
     #contact {
         padding: 5px 5px 5px 5px;
     }
 }
 
 
-
 /* 
     ##Device = Most of the Smartphones Mobiles (Portrait)
     ##Screen = B/w 320px to 479px
   */
-
 @media (max-width: 480px) {
 
+    /* Navigaiton styling starts here */
     header {
         padding: 0px 0px 0.2px 0px;
         font-size: 0.8rem;
@@ -251,6 +254,7 @@
         margin-top: 40px;
     }
 
+    /* This banner is recognizable as the project's title image, a mother holding an toddler and pointing to the lifehacks */
     #banner1 {
         height: 155px;
 
@@ -270,6 +274,7 @@
         justify-content: flex-end;
     }
 
+    /* Fixed navigation item that leads to the top of the page */
     .top {
         font-weight: 400;
         font-size: 0.7rem;
@@ -285,6 +290,7 @@
         padding: 20px 10px 0px 20px;
     }
 
+    /* h3 is for each lifehack's heading */
     h3 {
         text-align: center;
         margin: 0;
@@ -298,6 +304,7 @@
         margin: 1px;
     }
 
+    /* Lifehacks navigation start here */
     #jump-to-a-lifehack-heading {
         padding-top: 30px;
     }
@@ -331,7 +338,6 @@
         padding-top: 5px;
     }
 
-
     .lifehack {
         padding: 5px 5px 5px 5px;
         background-color: #FAF7F4;
@@ -341,11 +347,12 @@
         padding: 10px 5px;
     }
 
- /*The column-count class displays the main content paragraph in just one column on Tablets and Mobiles*/
+    /*The column-count class displays the main content paragraph in just one column on Tablets and Mobiles*/
     .column-count {
         columns: 1;
     }
 
+    /* Round images in the beginning of each lifehack */
     .medalions {
         display: flex;
         justify-content: center;

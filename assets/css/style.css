@@ -12,10 +12,12 @@
 
     #0D0D0D   - Black-Brown */
 
-
+    /* These fonts are imported from Google Fonts */
     @import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
 
+
+    /* This styling is set for the whole project as a deafault */
     body {
         color: #0D0D0D;
         background-color: #D8CBC4;
@@ -23,6 +25,7 @@
         font-weight: 400;
     }
 
+    /* Navigaiton styling starts here */
     header {
         padding: 10px 20px 50px 20px;
         text-align: center;
@@ -45,6 +48,7 @@
         margin-right: 30px;
     }
 
+    /* Activates when howering over */
     a {
         text-decoration: none;
         color: inherit;
@@ -55,6 +59,7 @@
         color: #FAF7F4;
     }
 
+    /* This background colour is here in case the title image does not load, so the title that is in white, is still possible to read */
     #banner-container {
         background-color: #455359;
     }
@@ -74,18 +79,17 @@
         font-size: 0.9rem;
     }
 
-
+    /* This banner is recognizable as the project's title image, a mother holding an toddler and pointing to the lifehacks */
     #banner1 {
         height: 500px;
         width: 100%;
         display: block;
-        background: #455359;
         background: url('../images/pexels-tatiana-syrikova-3933395-banner.png') center;
         background-size: cover;
     }
 
+    /* Fixed navigation item that leads to the top of the page */
     .top {
-        /* color: #FAF7F4; */
         background: #D8CBC4;
         opacity: 1;
         position: fixed;
@@ -110,13 +114,13 @@
     .three-images {
         display: flex;
         justify-content: space-around;
-
     }
 
     .three-images img {
         width: 30%;
     }
 
+    /* Lifehacks navigation start here */
     #jump-to-a-lifehack-heading {
         background-color: #D8CBC4;
     }
@@ -131,7 +135,7 @@
         padding: 50px;
     }
 
-
+    /* h2 is for all the main section titles */
     h2 {
         clear: both;
     }
@@ -146,7 +150,7 @@
         text-align: left;
     }
 
-
+    /* Round images in the beginning of each lifehack */
     .medalions img {
         border-radius: 50%;
         width: 300px;
@@ -157,10 +161,10 @@
         display: block;
     }
 
-
     .column-two {
         columns: 2;
     }
+
     /*The column-count class will be responsible for adjusting the amount of content colums to different devices*/
     .column-count {
         columns: 3;
@@ -170,9 +174,9 @@
     .lifehack {
         padding: 50px 50px 50px 50px;
         background-color: #FAF7F4;
-
     }
 
+    /* h3 is for each lifehack's heading */
     h3 {
         font-family: 'Lemonada', cursive, sans-serif;
         text-align: center;
@@ -183,6 +187,7 @@
         text-align: left;
     }
 
+    /* Visual content block dividers */
     .even-number-hack {
         background-color: #D8CBC4;
     }
@@ -191,6 +196,7 @@
         background-color: #FAF7F4;
     }
 
+    /* The two large landscape images after the 5th and the 10th lifehacks */
     .free-image {
         padding: 0px;
     }
@@ -202,13 +208,10 @@
         padding: 0px;
     }
 
+    /* The content of the contact section is centralised */
     #contact {
         text-align: center;
         padding: 50px 50px 50px 50px;
-    }
-
-    .left {
-        float: left;
     }
 
     p {
@@ -217,14 +220,6 @@
         text-indent: 30px;
         line-height: 32px;
     }
-
-    #footer div {
-        text-align: left;
-        text-indent: 30px;
-        padding: 20px;
-    }
-
-
 
     /* Contact form */
     input[type=text],
@@ -263,4 +258,11 @@
     #form-response {
         text-align: center;
         padding: 50px;
+    }
+
+    /* Social media icons */
+    #footer div {
+        text-align: left;
+        text-indent: 30px;
+        padding: 20px;
     }
